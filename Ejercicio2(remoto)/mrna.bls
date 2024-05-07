@@ -21,26 +21,383 @@ Database: Non-redundant UniProtKB/SwissProt sequences
 
 
 
-Query= T92048 yd54g12.s1 Soares fetal liver spleen 1NFLS Homo sapiens cDNA
-clone IMAGE:112102 3', mRNA sequence.
+Query= X67017 S.cerevisiae cyt2 gene for cytochrome c heme lyase.
 
-Length=161
+Length=472
 
-RID: 3FM4WFTR013
+RID: 3K37DM4X016
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q00873.1 RecName: Full=Holocytochrome-c1 synthase; AltName: Full=...  481     1e-170
+O13962.1 RecName: Full=Putative holocytochrome-c1 synthase; AltNa...  178     4e-52 
+P9WES7.1 RecName: Full=Putative holocytochrome-c1 synthase; AltNa...  166     1e-46 
+Q552W5.1 RecName: Full=Probable holocytochrome-c-type synthase; A...  137     1e-36 
+P53703.1 RecName: Full=Probable holocytochrome-c-type synthase; A...  134     8e-35 
+Q5F339.1 RecName: Full=Holocytochrome c-type synthase; AltName: F...  131     8e-34 
+A5PJG7.1 RecName: Full=Holocytochrome c-type synthase; AltName: F...  128     1e-32 
+P53701.1 RecName: Full=Holocytochrome c-type synthase; AltName: F...  127     2e-32 
+P53702.2 RecName: Full=Holocytochrome c-type synthase; AltName: F...  127     2e-32 
+O74794.1 RecName: Full=Putative holocytochrome-c synthase; AltNam...  109     3e-25 
+P53700.2 RecName: Full=Holocytochrome-c synthase; AltName: Full=C...  89.7    5e-19 
+P06182.1 RecName: Full=Holocytochrome-c synthase; AltName: Full=C...  86.7    8e-18 
+P14187.1 RecName: Full=Holocytochrome-c synthase; AltName: Full=C...  87.4    1e-17 
+Q81CT8.2 RecName: Full=Putative ABC transporter ATP-binding prote...  34.3    2.7   
+O31934.1 RecName: Full=SPbeta prophage-derived UPF0715 membrane p...  31.6    5.6   
 
 
-***** No hits found *****
+>Q00873.1 RecName: Full=Holocytochrome-c1 synthase; AltName: Full=Cytochrome 
+c1 heme lyase; Short=CC1HL
+Length=224
+
+ Score = 481 bits (1239),  Expect = 1e-170, Method: Compositional matrix adjust.
+ Identities = 224/224 (100%), Positives = 224/224 (100%), Gaps = 0/224 (0%)
+
+Query  83   MMSSDQQGKCPVDEETKKLWLREHGNEAHPGATAPGNQLECSANPQDNDKTPEYHTTVDL  142
+            MMSSDQQGKCPVDEETKKLWLREHGNEAHPGATAPGNQLECSANPQDNDKTPEYHTTVDL
+Sbjct  1    MMSSDQQGKCPVDEETKKLWLREHGNEAHPGATAPGNQLECSANPQDNDKTPEYHTTVDL  60
+
+Query  143  SQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPLHNSINERVWNYI  202
+            SQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPLHNSINERVWNYI
+Sbjct  61   SQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPLHNSINERVWNYI  120
+
+Query  203  KSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKPFDRHDWQIDRCGKTVDY  262
+            KSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKPFDRHDWQIDRCGKTVDY
+Sbjct  121  KSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKPFDRHDWQIDRCGKTVDY  180
+
+Query  263  VIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRFWKSLGF  306
+            VIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRFWKSLGF
+Sbjct  181  VIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRFWKSLGF  224
+
+
+>O13962.1 RecName: Full=Putative holocytochrome-c1 synthase; AltName: Full=Cytochrome 
+c1 heme lyase; Short=CC1HL
+Length=216
+
+ Score = 178 bits (451),  Expect = 4e-52, Method: Compositional matrix adjust.
+ Identities = 101/229 (44%), Positives = 134/229 (59%), Gaps = 37/229 (16%)
+
+Query  83   MMSSDQQGKCPVDEETKKLWLREHGNEAHPGATAPGNQLECSANPQDNDKTPEYHTTVDL  142
+             ++ +++ KCPV  E +  WL+ HG +                 P +   TP  H T+ L
+Sbjct  5    QLNQEEESKCPVPPEVRDAWLKSHGGKK----------------PSEVHDTP--HPTM-L  45
+
+Query  143  SQSREVSTIPR--TNSD----RNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPLHNSINE  196
+               RE+STIP+  T SD      WIYPS++ F++AM +KNW+P+ +DMK +VP+HN++NE
+Sbjct  46   PTEREISTIPKVVTESDSGKEEKWIYPSQQMFFDAMKRKNWNPHPEDMKTIVPIHNAVNE  105
+
+Query  197  RVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHL---AKPFDRHDWQI  253
+            R W  I  WE   G E CGG KL  F G+ KKLTP+A    RIL+L    KPFDRHDW +
+Sbjct  106  RAWQDILQWEQGWGSEKCGGPKLERFDGNVKKLTPKA----RILNLLGYNKPFDRHDWLV  161
+
+Query  254  DRCGKTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRFWK  302
+            +RCG+ V YVIDFY    N       P IYLDVRPKL S  G  +R ++
+Sbjct  162  NRCGRKVAYVIDFY----NGPTVNGTPSIYLDVRPKL-SVHGAWMRVYR  205
+
+
+>P9WES7.1 RecName: Full=Putative holocytochrome-c1 synthase; AltName: Full=Cytochrome 
+c1 heme lyase; Short=CC1HL [Thermochaetoides 
+thermophila DSM 1495]
+Length=287
+
+ Score = 166 bits (419),  Expect = 1e-46, Method: Compositional matrix adjust.
+ Identities = 99/282 (35%), Positives = 147/282 (52%), Gaps = 64/282 (23%)
+
+Query  84   MSSDQQGKCPVDEETKKLWLREHGNEAHPGA-----------TAPG--------------  118
+             +S ++ KCPV+ +T++LWL +                     AP               
+Sbjct  10   QASGEEAKCPVNHKTRELWLHQARAAQSASTSAAPALPQSVQVAPASQPSQPSSYSSSSW  69
+
+Query  119  ---------NQLECSANPQDNDKTPEYHTTVDLSQSREVSTIPRT---------------  154
+                     +Q   SAN     + P+    + L ++R +S+IPRT               
+Sbjct  70   SSWLRIPFFSQQSQSANSTQQAQPPKLSAPL-LDETRVISSIPRTPDATPSACPVNHEVE  128
+
+Query  155  ---NSDRNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPLHNSINERVWNYIKSWED----  207
+               +   +W+YPSEKQF+EAM +K +DP++ DMK VVP+HN++NER W  I  WE     
+Sbjct  129  TGASPTGHWVYPSEKQFFEAMRRKGYDPHAADMKTVVPIHNAVNERAWAEILQWEAPYVE  188
+
+Query  208  --KQGGEACGGIKLTNFKG-DSKKLTPRAWFRSRILHLAKPFDRHDWQIDRCGKTVDYVI  264
+               +GG  CGG +L +F G  ++ ++PRA   + +L    PFDRHDW IDRCGK ++YVI
+Sbjct  189  PVSKGG--CGGPRLHSFSGLGTQHMSPRARINT-LLGYQAPFDRHDWVIDRCGKKIEYVI  245
+
+Query  265  DFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRFWKSLGF  306
+            DFY+   +  N+ +    YLDVRPKLNS+EGF++R  +++G 
+Sbjct  246  DFYAGRSDGGNAGKL-NFYLDVRPKLNSWEGFKMRALRAVGL  286
+
+
+>Q552W5.1 RecName: Full=Probable holocytochrome-c-type synthase; AltName: 
+Full=Cytochrome c-type heme lyase; Short=CCHL
+Length=211
+
+ Score = 137 bits (345),  Expect = 1e-36, Method: Compositional matrix adjust.
+ Identities = 72/169 (43%), Positives = 99/169 (59%), Gaps = 3/169 (2%)
+
+Query  131  DKTPEYHTTVDLSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPL  190
+            ++ P    T  LS  R  STIPRT  D NW YPS + F+ AM KK ++P  +DM VV+ +
+Sbjct  40   NQNPHPDQTKPLSTERITSTIPRTEKD-NWQYPSPQMFFNAMKKKQYEPKEEDMSVVISI  98
+
+Query  191  HNSINERVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKPFDRHD  250
+            HN++NE+ W  +  WE+    + C   KL  FKG +   +P+A F +  L    PFDRHD
+Sbjct  99   HNTVNEKCWEDVLQWENDY-KDVCPNPKLKKFKGKATDFSPKAKFLNTFLGYKLPFDRHD  157
+
+Query  251  WQIDRCGKTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLR  299
+            W +DR GK V YVIDFY   +N  +S +   IY+DVRP ++ F   + R
+Sbjct  158  WIVDRNGKEVRYVIDFYEGRIN-KDSGKSIGIYIDVRPAIDDFSSLKDR  205
+
+
+>P53703.1 RecName: Full=Probable holocytochrome-c-type synthase; AltName: 
+Full=Cytochrome c-type heme lyase; Short=CCHL
+Length=280
+
+ Score = 134 bits (337),  Expect = 8e-35, Method: Compositional matrix adjust.
+ Identities = 88/253 (35%), Positives = 126/253 (50%), Gaps = 26/253 (10%)
+
+Query  81   HIMMSSDQQGKCPVDEETKKLWLREHGNEAHPGATAPGNQLECSANPQDND-----KTPE  135
+            H M ++    +CP+  E +       G     G   P    + S NP +N+     + P 
+Sbjct  25   HSMAAAGGGSQCPLTPEQRAA---ASGENCGAGGACPVGADKASINPLNNELEHPNQKPA  81
+
+Query  136  YHTTVDLSQSREVSTIPRTNSD-RNWIYPSEKQFYEAMMKKNWDPNSD-----DMKVVVP  189
+                  L   RE STIP+  ++   W YPS + F+ AM+KK W    D     DM+ ++ 
+Sbjct  82   PDQPFALPTKREKSTIPKAGTETETWTYPSPQMFWNAMLKKGWRWQDDSLSKSDMENIIS  141
+
+Query  190  LHNSINERVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKPFDRH  249
+            +HN+ NE  W  +  WE+    E C   KL +FKGD+K L+PRA FR+  L    PFDRH
+Sbjct  142  IHNANNEEAWREVLKWENLLHPE-CAEPKLKSFKGDAKNLSPRARFRNLFLGYDLPFDRH  200
+
+Query  250  DWQIDRCG-KTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNS----FEGFRLRFWK--  302
+            DW +DRCG K V YVID+Y     D +S+      LDVRP +N     ++   + +W+  
+Sbjct  201  DWIVDRCGTKQVQYVIDYYDGGAVDPSSKL--FTILDVRPAVNDIGNIWDRMVVAYWRFK  258
+
+Query  303  --SLGF*ITTTIP  313
+              +LGF  +  IP
+Sbjct  259  FETLGFTPSLPIP  271
+
+
+>Q5F339.1 RecName: Full=Holocytochrome c-type synthase; AltName: Full=Cytochrome 
+c-type heme lyase; Short=CCHL
+Length=273
+
+ Score = 131 bits (330),  Expect = 8e-34, Method: Compositional matrix adjust.
+ Identities = 71/170 (42%), Positives = 97/170 (57%), Gaps = 13/170 (8%)
+
+Query  142  LSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNW-----DPNSDDMKVVVPLHNSINE  196
+            LS  RE S+IPR +SD+ W+YPSE+ F+ AM++K W     D  S+DM  ++ +HN  NE
+Sbjct  105  LSTVREESSIPRAHSDKKWVYPSEQMFWNAMLRKGWRWKDDDITSEDMTNIIKIHNQNNE  164
+
+Query  197  RVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKPFDRHDWQIDRC  256
+            + W  I  WE     E   G  L  F G +K+ +PRA  RS  +    PFDRHDW +DRC
+Sbjct  165  QAWKEILKWEALHAMECPCGPSLMRFGGKAKEYSPRARIRS-WMGYELPFDRHDWIVDRC  223
+
+Query  257  GKTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNS----FEGFRLRFWK  302
+            GK V YVID+Y     D N Q      LDVRP  +S    ++  ++ +W+
+Sbjct  224  GKEVRYVIDYYDGGAVDKNYQ---FTILDVRPAFDSLSAVWDRMKVAWWR  270
+
+
+>A5PJG7.1 RecName: Full=Holocytochrome c-type synthase; AltName: Full=Cytochrome 
+c-type heme lyase; Short=CCHL
+Length=275
+
+ Score = 128 bits (322),  Expect = 1e-32, Method: Compositional matrix adjust.
+ Identities = 72/181 (40%), Positives = 101/181 (56%), Gaps = 13/181 (7%)
+
+Query  131  DKTPEYHTTVDLSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNW-----DPNSDDMK  185
+            ++TP       LS  RE S+IPR +SD+ W+YPSE+ F+ AM++K W     D +  DM 
+Sbjct  96   NQTPAPDQPFPLSTVREESSIPRADSDKKWVYPSEQMFWNAMLRKGWKWKDEDISQKDMY  155
+
+Query  186  VVVPLHNSINERVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKP  245
+             ++ +HN  NE+ W  I  WE     E   G  L  F G +K+ +PRA  RS  +    P
+Sbjct  156  NIIRIHNQNNEQAWKEILKWEALHAAECPCGPSLIRFGGKAKEYSPRARIRS-WMGYELP  214
+
+Query  246  FDRHDWQIDRCGKTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNS----FEGFRLRFW  301
+            FDRHDW I+RCG  V YVID+Y  D  + N   Q    LDVRP L+S    ++  ++ +W
+Sbjct  215  FDRHDWIINRCGTEVRYVIDYY--DGGEVNQDYQ-FTILDVRPALDSLSAVWDRMKVAWW  271
+
+Query  302  K  302
+            +
+Sbjct  272  R  272
+
+
+>P53701.1 RecName: Full=Holocytochrome c-type synthase; AltName: Full=Cytochrome 
+c-type heme lyase
+Length=268
+
+ Score = 127 bits (319),  Expect = 2e-32, Method: Compositional matrix adjust.
+ Identities = 72/181 (40%), Positives = 101/181 (56%), Gaps = 13/181 (7%)
+
+Query  131  DKTPEYHTTVDLSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNW-----DPNSDDMK  185
+            ++TP       LS  RE S+IPR +S++ W+YPSE+ F+ AM+KK W     D +  DM 
+Sbjct  89   NQTPAPDQPFALSTVREESSIPRADSEKKWVYPSEQMFWNAMLKKGWKWKDEDISQKDMY  148
+
+Query  186  VVVPLHNSINERVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRSRILHLAKP  245
+             ++ +HN  NE+ W  I  WE     E   G  L  F G +K+ +PRA  RS  +    P
+Sbjct  149  NIIRIHNQNNEQAWKEILKWEALHAAECPCGPSLIRFGGKAKEYSPRARIRS-WMGYELP  207
+
+Query  246  FDRHDWQIDRCGKTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNS----FEGFRLRFW  301
+            FDRHDW I+RCG  V YVID+Y  D  + N   Q    LDVRP L+S    ++  ++ +W
+Sbjct  208  FDRHDWIINRCGTEVRYVIDYY--DGGEVNKDYQ-FTILDVRPALDSLSAVWDRMKVAWW  264
+
+Query  302  K  302
+            +
+Sbjct  265  R  265
+
+
+>P53702.2 RecName: Full=Holocytochrome c-type synthase; AltName: Full=Cytochrome 
+c-type heme lyase; Short=CCHL
+Length=272
+
+ Score = 127 bits (319),  Expect = 2e-32, Method: Compositional matrix adjust.
+ Identities = 87/249 (35%), Positives = 123/249 (49%), Gaps = 40/249 (16%)
+
+Query  84   MSSDQQGKCPVDEETKKLWLREHGNEAHPGATAPGNQ------LEC---SANPQDND---  131
+            M   Q+  CPV   T  L      ++AH   T P +Q      +EC    A  +D +   
+Sbjct  31   MHKGQRKGCPVTAATSDL---TSESKAH---TVPAHQDRAYDYVECPVTGARAKDKESLD  84
+
+Query  132  ---------KTPEYHTTVDLSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNW-----  177
+                     +TP       LS SRE S+IPR +S++ W+YPSE+ F+ AM++K W     
+Sbjct  85   PSNLMPPPNQTPSPDQPFTLSTSREESSIPRADSEKKWVYPSEQMFWNAMLRKGWKWKDD  144
+
+Query  178  DPNSDDMKVVVPLHNSINERVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRAWFRS  237
+            D +  DM  ++ +HN  NE+ W  I  WE     E   G  L  F G +++ +PRA  RS
+Sbjct  145  DISQKDMYNIIRIHNQNNEQAWKEILKWEALHAHECPCGPSLVRFGGKAREYSPRARIRS  204
+
+Query  238  RILHLAKPFDRHDWQIDRCGKTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEG--  295
+              +    PFDRHDW I+RCG  V YVID+Y  D  + N + Q    LDVRP  +SF    
+Sbjct  205  -WMGYELPFDRHDWIINRCGTEVRYVIDYY--DGGEVNKEYQ-FTILDVRPAFDSFSAVW  260
+
+Query  296  --FRLRFWK  302
+               ++ +W+
+Sbjct  261  DRMKVAWWR  269
+
+
+>O74794.1 RecName: Full=Putative holocytochrome-c synthase; AltName: Full=Cytochrome 
+c heme lyase; Short=CCHL
+Length=377
+
+ Score = 109 bits (273),  Expect = 3e-25, Method: Compositional matrix adjust.
+ Identities = 67/177 (38%), Positives = 104/177 (59%), Gaps = 19/177 (11%)
+
+Query  140  VDLSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNWDPNSDDMKVVVPLHNSINERVW  199
+            V L  +R  S+IP+ +  +NW YPS +Q Y AM +K +  + +++ ++V +HN +NE  W
+Sbjct  202  VGLETTRTTSSIPKVDG-KNWEYPSPQQMYNAMWRKGYRDSGENVPIMVQVHNFLNEGAW  260
+
+Query  200  NYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRA-WFR-------SRILHLAKPFDRHDW  251
+            + IK+WE ++ GE     KL  F+G++ K TPRA W+        +R      PFDRHDW
+Sbjct  261  SEIKAWE-REAGENT-EPKLLRFEGNANKRTPRALWYMMLGRINPNRWGSGEGPFDRHDW  318
+
+Query  252  QIDRCGKT-VDYVIDFY-STDLNDANSQQQPLIYLDVRPKLNSFEGFRLRF--WKSL  304
+             + R   + V YVID+Y + D  D     +P+  LDVRP ++SFE   LR+  W+++
+Sbjct  319  YVQRKDNSIVRYVIDYYEAPDSADG----KPVFSLDVRPAVDSFESVALRWKHWRAM  371
+
+
+>P53700.2 RecName: Full=Holocytochrome-c synthase; AltName: Full=Cytochrome 
+c heme lyase; Short=CCHL [Candida albicans WO-1]
+ KGQ85080.1 cytochrome c heme lyase [Candida albicans P94015]
+ KGQ87165.1 cytochrome c heme lyase [Candida albicans P37005]
+ KGR06273.1 cytochrome c heme lyase [Candida albicans P57072]
+ KGU06665.1 cytochrome c heme lyase [Candida albicans P87]
+ KHC33335.1 cytochrome c heme lyase [Candida albicans P76055]
+ KHC49365.1 cytochrome c heme lyase [Candida albicans P60002]
+ RLP65249.1 cytochrome c heme lyase [Candida albicans Ca529L]
+Length=264
+
+ Score = 89.7 bits (221),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 62/178 (35%), Positives = 83/178 (47%), Gaps = 19/178 (11%)
+
+Query  140  VDLSQSREVSTIPRTNSDRN--WIYPSEKQFYEAMMKKNWDPN--SDDMKVVVPLHNSIN  195
+            + LS  R +STIPR  S+    W YPS +Q   AM+ K        D ++ +V +HN +N
+Sbjct  72   IKLSTERTISTIPRGESEDQGLWEYPSPQQMLNAMLSKGKGDGVPEDAVESMVEVHNFLN  131
+
+Query  196  ERVWNYIKSWEDKQGGEACGGIKLTNFKGDSKKLTPRA----WFRS---RILHLAKPFDR  248
+            E  W  I +WED+   +     +L  F G    L+P+A    W         +   PFDR
+Sbjct  132  EGAWQQILTWEDQYTQQTKVEPRLKKFTGRPHDLSPKARMYLWLGQLFPETFNTIPPFDR  191
+
+Query  249  HDWQIDR-CG-----KTVDYVIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRF  300
+            HDW + R CG     K V YVID+Y     D      P   LD RP L++    R RF
+Sbjct  192  HDWTVLRSCGRNQGWKEVRYVIDYYGAP--DDEETGMPAFMLDTRPALDNLTNARDRF  247
+
+
+>P06182.1 RecName: Full=Holocytochrome-c synthase; AltName: Full=Cytochrome 
+c heme lyase; Short=CCHL
+Length=269
+
+ Score = 86.7 bits (213),  Expect = 8e-18, Method: Compositional matrix adjust.
+ Identities = 69/218 (32%), Positives = 100/218 (46%), Gaps = 46/218 (21%)
+
+Query  122  ECSANPQDNDK------TPEYHTT------VDLSQSREVSTIPRT-NSDRNWIYPSEKQF  168
+            EC     DND+       PE   +      +DL   R +S+IP++ +S+  W YPS +Q 
+Sbjct  41   ECPVMQGDNDRINPLNNMPELAASKQPGQKMDLPVDRTISSIPKSPDSNEFWEYPSPQQM  100
+
+Query  169  YEAMMKK-----NWDPNSDDMKVVVPLHNSINERVWNYIKSWEDKQGGEACGGIKLTNFK  223
+            Y AM++K     + +   D ++ +V +HN +NE  W  +  WE     E+    KL  F 
+Sbjct  101  YNAMVRKGKIGGSGEVAEDAVESMVQVHNFLNEGCWQEVLEWEKPHTDESHVQPKLLKFM  160
+
+Query  224  GDSKKLTPRAWFRSRILHLAK-----------PFDRHDWQIDRCG----------KTVDY  262
+            G    L+PRA    R +HL             PFDRHDW + R            K V Y
+Sbjct  161  GKPGVLSPRA----RWMHLCGLLFPSHFSQELPFDRHDWIVLRGERKAEQQPPTFKEVRY  216
+
+Query  263  VIDFYSTDLNDANSQQQPLIYLDVRPKLNSFEGFRLRF  300
+            V+DFY    +D N    P  ++DVRP L+S +  + R 
+Sbjct  217  VLDFYGGP-DDENG--MPTFHVDVRPALDSLDNAKDRM  251
+
+
+>P14187.1 RecName: Full=Holocytochrome-c synthase; AltName: Full=Cytochrome 
+c heme lyase; Short=CCHL
+Length=346
+
+ Score = 87.4 bits (215),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 61/198 (31%), Positives = 89/198 (45%), Gaps = 42/198 (21%)
+
+Query  132  KTPEYHTTVDLSQSREVSTIPRTNSDRNWIYPSEKQFYEAMMKKNW-DPNSDDMKVVVPL  190
+            + P  +  + L   R+ S+IP+   D NW YPS +Q Y A+++K + D +   ++ +V +
+Sbjct  120  QEPAPNQAIALPTERDPSSIPKGTGDGNWEYPSPQQMYNALLRKGYTDTDITAVESMVAV  179
+
+Query  191  HNSINERVWNYIKSWEDKQG------------GEACGGI----------------KLTNF  222
+            HN +NE  WN I  WE + G            GE    +                 L  F
+Sbjct  180  HNFLNEGAWNEIVEWERRFGKGLMRGWEIMKRGEENAPMMLRRLEAQENDPEPQPTLIRF  239
+
+Query  223  KGDSKKLTPRAWFRSRILHL------AKPFDRHDWQIDR----CGKTVDYVIDFYSTDLN  272
+            +G  K +TP+A     +  +        PFDRHDW + R      K V YVIDFYS    
+Sbjct  240  QGRPKDMTPKAALLQVLGRINSKYATEPPFDRHDWYVSRDENGQKKEVRYVIDFYSAPPE  299
+
+Query  273  DANSQQQPLIYLDVRPKL  290
+                  +P+ YLDVRP +
+Sbjct  300  PTG---EPVFYLDVRPAV  314
+
+
+>Q81CT8.2 RecName: Full=Putative ABC transporter ATP-binding protein BC_2655
+Length=566
+
+ Score = 34.3 bits (77),  Expect = 2.7, Method: Compositional matrix adjust.
+ Identities = 16/42 (38%), Positives = 26/42 (62%), Gaps = 3/42 (7%)
+
+Query  168  FYEAMMKKNWDPNSDDMKVVVPLHNSINERVWNYIKSWEDKQ  209
+            + EA+ + ++D N+D   V+ P+ N   E+V N IK W +KQ
+Sbjct  249  YIEALKRLHFDSNND---VIYPMENLQKEKVSNVIKEWMEKQ  287
+
+
+>O31934.1 RecName: Full=SPbeta prophage-derived UPF0715 membrane protein 
+YopD
+Length=131
+
+ Score = 31.6 bits (70),  Expect = 5.6, Method: Composition-based stats.
+ Identities = 34/106 (32%), Positives = 52/106 (49%), Gaps = 8/106 (8%)
+
+Query  371  LNFGFHVFLILFV---FLVIALIGCCFI*SFFLLLVLLILFVILIIVVLIVSTLLFFL--  425
+            L+FG    L LFV   F+ IAL+    I +F+ L+  L+ F   + V L      F L  
+Sbjct  20   LSFGLIFGLYLFVYSGFMAIALVTIAII-AFYALITYLV-FAAPLQVWLRRRRRKFSLIN  77
+
+Query  426  FLLFIT-SFLVPSFPYFIDSPPNDLYNICPFSHTTHTNISAY*YLF  470
+            FL++I  +F      +F+D PPN L     F +   + ++A+ Y F
+Sbjct  78   FLIYIAVAFSAVFLFWFVDYPPNALTMFRSFEYYIMSIVAAFIYWF  123
 
 
 
 Lambda      K        H
-   0.329    0.142    0.623 
+   0.339    0.149    0.496 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 6969626617
+Effective search space used: 43952478687
 
 
   Database: Non-redundant UniProtKB/SwissProt sequences
