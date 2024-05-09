@@ -1,0 +1,2323 @@
+BLASTP 2.15.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: swissprot
+           482,697 sequences; 183,502,227 total letters
+
+
+
+Query= NM_001025366_ORF_1 Translated ORF
+
+Length=4
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.432    0.222     1.06    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 734008908
+
+
+Query= NM_001025366_ORF_2 Translated ORF
+
+Length=233
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P15692.3 RecName: Full=Vascular endothelial growth factor A, long...  447     1e-158
+Q9MYV3.1 RecName: Full=Vascular endothelial growth factor A; Shor...  409     3e-146
+P49151.1 RecName: Full=Vascular endothelial growth factor A; Shor...  359     5e-127
+P16612.2 RecName: Full=Vascular endothelial growth factor A; Shor...  342     7e-120
+Q00731.3 RecName: Full=Vascular endothelial growth factor A, long...  348     2e-119
+P15691.1 RecName: Full=Vascular endothelial growth factor A; Shor...  331     9e-116
+Q9GKR0.1 RecName: Full=Vascular endothelial growth factor A; Shor...  328     2e-114
+Q99PS1.1 RecName: Full=Vascular endothelial growth factor A; Shor...  306     7e-106
+P26617.1 RecName: Full=Vascular endothelial growth factor A; Shor...  287     7e-99 
+P67964.1 RecName: Full=Vascular endothelial growth factor A; Shor...  287     4e-98 
+P67860.1 RecName: Full=Vascular endothelial growth factor A; Shor...  279     6e-95 
+C0K3N5.1 RecName: Full=Vascular endothelial growth factor A; Shor...  275     2e-93 
+C0K3N4.1 RecName: Full=Vascular endothelial growth factor A; Shor...  269     3e-91 
+P83906.1 RecName: Full=Vascular endothelial growth factor A; Shor...  265     1e-89 
+P50412.1 RecName: Full=Vascular endothelial growth factor A; Shor...  249     7e-84 
+O73682.1 RecName: Full=Vascular endothelial growth factor A-A; Sh...  213     3e-69 
+Q9XS47.1 RecName: Full=Placenta growth factor; Short=PlGF; Flags:...  125     3e-35 
+P49764.1 RecName: Full=Placenta growth factor; Short=PlGF; Flags:...  122     4e-34 
+Q63434.1 RecName: Full=Placenta growth factor; Short=PlGF; Flags:...  122     6e-34 
+Q6J936.1 RecName: Full=Snake venom vascular endothelial growth fa...  119     4e-33 
+Q90X23.1 RecName: Full=Snake venom vascular endothelial growth fa...  119     1e-32 
+P67862.1 RecName: Full=Snake venom vascular endothelial growth fa...  118     1e-32 
+P49763.2 RecName: Full=Placenta growth factor; Short=PlGF; Flags:...  119     5e-32 
+P0DW97.1 RecName: Full=Snake venom vascular endothelial growth fa...  114     1e-31 
+P0DW98.1 RecName: Full=Snake venom vascular endothelial growth fa...  115     2e-31 
+Q90X24.1 RecName: Full=Snake venom vascular endothelial growth fa...  115     2e-31 
+P82475.2 RecName: Full=Snake venom vascular endothelial growth fa...  112     8e-31 
+C0K3N1.1 RecName: Full=Snake venom vascular endothelial growth fa...  113     1e-30 
+Q330K6.1 RecName: Full=Snake venom vascular endothelial growth fa...  113     1e-30 
+P83942.1 RecName: Full=Snake venom vascular endothelial growth fa...  108     4e-29 
+P67863.2 RecName: Full=Snake venom vascular endothelial growth fa...  108     7e-29 
+P0DL42.1 RecName: Full=Snake venom vascular endothelial growth fa...  106     2e-28 
+C0K3N3.1 RecName: Full=Snake venom vascular endothelial growth fa...  107     3e-28 
+B0VXV3.1 RecName: Full=Snake venom vascular endothelial growth fa...  107     4e-28 
+C0K3N2.1 RecName: Full=Snake venom vascular endothelial growth fa...  106     5e-28 
+C0HM96.1 RecName: Full=Snake venom vascular endothelial growth fa...  105     8e-28 
+P67861.2 RecName: Full=Snake venom vascular endothelial growth fa...  105     1e-27 
+B0VXV4.1 RecName: Full=Snake venom vascular endothelial growth fa...  105     2e-27 
+X5ICI2.1 RecName: Full=Vascular endothelial growth factor isoform...  104     4e-27 
+P49766.2 RecName: Full=Vascular endothelial growth factor B; Shor...  100     7e-25 
+Q9XS49.2 RecName: Full=Vascular endothelial growth factor B; Shor...  99.8    1e-24 
+O35485.3 RecName: Full=Vascular endothelial growth factor B; Shor...  99.0    2e-24 
+P49765.2 RecName: Full=Vascular endothelial growth factor B; Shor...  99.0    3e-24 
+P52584.1 RecName: Full=Vascular endothelial growth factor homolog...  84.0    2e-19 
+P49767.1 RecName: Full=Vascular endothelial growth factor C; Shor...  73.9    5e-14 
+O35757.2 RecName: Full=Vascular endothelial growth factor C; Shor...  72.8    9e-14 
+P97953.1 RecName: Full=Vascular endothelial growth factor C; Shor...  72.8    1e-13 
+P97946.1 RecName: Full=Vascular endothelial growth factor D; Shor...  65.5    3e-11 
+O43915.1 RecName: Full=Vascular endothelial growth factor D; Shor...  64.7    5e-11 
+O35251.1 RecName: Full=Vascular endothelial growth factor D; Shor...  62.8    2e-10 
+P52585.1 RecName: Full=Vascular endothelial growth factor homolog...  52.0    2e-07 
+Q95229.1 RecName: Full=Platelet-derived growth factor subunit B; ...  43.5    5e-04 
+P01128.1 RecName: Full=PDGF-related-transforming protein sis; Alt...  38.5    0.020 
+P01127.1 RecName: Full=Platelet-derived growth factor subunit B; ...  38.1    0.032 
+P12919.1 RecName: Full=Platelet-derived growth factor subunit B; ...  38.1    0.034 
+Q6Q7I7.1 RecName: Full=Platelet-derived growth factor subunit B; ...  36.6    0.097 
+P28576.2 RecName: Full=Platelet-derived growth factor subunit A; ...  35.8    0.18  
+P31240.1 RecName: Full=Platelet-derived growth factor subunit B; ...  35.8    0.21  
+P20033.3 RecName: Full=Platelet-derived growth factor subunit A; ...  35.4    0.23  
+P34007.1 RecName: Full=Platelet-derived growth factor subunit A; ...  35.0    0.29  
+P13698.1 RecName: Full=Platelet-derived growth factor subunit A; ...  35.0    0.32  
+Q2KJ15.1 RecName: Full=Platelet-derived growth factor subunit A; ...  35.0    0.34  
+Q9I946.1 RecName: Full=Platelet-derived growth factor C; Short=PD...  35.0    0.35  
+P04085.1 RecName: Full=Platelet-derived growth factor subunit A; ...  34.7    0.38  
+Q9NRA1.2 RecName: Full=Platelet-derived growth factor C; Short=PD...  35.0    0.41  
+Q05028.1 RecName: Full=Platelet-derived growth factor subunit B; ...  34.7    0.42  
+A8WCC4.1 RecName: Full=Platelet-derived growth factor C; Short=PD...  35.0    0.42  
+P08169.2 RecName: Full=Cation-independent mannose-6-phosphate rec...  35.0    0.53  
+Q8CI19.2 RecName: Full=Platelet-derived growth factor C; Short=PD...  34.7    0.61  
+Q9EQX6.1 RecName: Full=Platelet-derived growth factor C; Short=PD...  33.5    1.2   
+B0TFY7.1 RecName: Full=Alanine--tRNA ligase; AltName: Full=Alanyl...  32.0    5.5   
+P26546.1 RecName: Full=Regulatory protein E2 [human papillomaviru...  31.2    6.4   
+H2E7T8.1 RecName: Full=Sterol methyltransferase-like 1 [Botryococ...  31.6    6.5   
+
+
+>P15692.3 RecName: Full=Vascular endothelial growth factor A, 
+long form; Short=L-VEGF; AltName: Full=Vascular permeability 
+factor; Short=VPF; Contains: RecName: Full=N-VEGF; Contains: 
+RecName: Full=VEGFA; Flags: Precursor [Homo sapiens]
+Length=395
+
+ Score = 447 bits (1151),  Expect = 1e-158, Method: Compositional matrix adjust.
+ Identities = 215/232 (93%), Positives = 215/232 (93%), Gaps = 17/232 (7%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD
+Sbjct  181  MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  240
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM
+Sbjct  241  IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  300
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSV               
+Sbjct  301  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSV---------------  345
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+              PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  346  --PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  395
+
+
+>Q9MYV3.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Canis lupus familiaris]
+Length=214
+
+ Score = 409 bits (1051),  Expect = 3e-146, Method: Compositional matrix adjust.
+ Identities = 205/232 (88%), Positives = 207/232 (89%), Gaps = 18/232 (8%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHWSLALLLYLHHAKWSQAAPMA GG    HEVVKFMDVYQRSYC PIETLVD
+Sbjct  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMA-GGEHKPHEVVKFMDVYQRSYCRPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEE NITMQIMRIKPHQGQHIGEM
+Sbjct  60   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEEFNITMQIMRIKPHQGQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQH+KCECRPKKDRARQEKKS+RGKGKGQKRKRKKSRYK WSV               
+Sbjct  120  SFLQHSKCECRPKKDRARQEKKSIRGKGKGQKRKRKKSRYKPWSV---------------  164
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+              PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  165  --PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  214
+
+
+>P49151.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Sus scrofa]
+Length=190
+
+ Score = 359 bits (922),  Expect = 5e-127, Method: Compositional matrix adjust.
+ Identities = 184/232 (79%), Positives = 185/232 (80%), Gaps = 42/232 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEG  Q  HEVVKFMDVYQRSYC PIETLVD
+Sbjct  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGD-QKPHEVVKFMDVYQRSYCRPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEE NITMQIMRIKPHQGQHIGEM
+Sbjct  60   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEEFNITMQIMRIKPHQGQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQHNKCECRPKKDRARQE                                        
+Sbjct  120  SFLQHNKCECRPKKDRARQE----------------------------------------  139
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+             +PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  140  -NPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  190
+
+
+>P16612.2 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Rattus norvegicus]
+Length=214
+
+ Score = 342 bits (878),  Expect = 7e-120, Method: Compositional matrix adjust.
+ Identities = 194/232 (84%), Positives = 201/232 (87%), Gaps = 18/232 (8%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHW+LALLLYLHHAKWSQAAP  EG  Q  HEVVKFMDVYQRSYC PIETLVD
+Sbjct  1    MNFLLSWVHWTLALLLYLHHAKWSQAAPTTEGE-QKAHEVVKFMDVYQRSYCRPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRC GCCNDE LECVPT ESN+TMQIMRIKPHQ QHIGEM
+Sbjct  60   IFQEYPDEIEYIFKPSCVPLMRCAGCCNDEALECVPTSESNVTMQIMRIKPHQSQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQH++CECRPKKDR + EKKSVRGKGKGQKRKRKKSR+KSWSV+              
+Sbjct  120  SFLQHSRCECRPKKDRTKPEKKSVRGKGKGQKRKRKKSRFKSWSVH--------------  165
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+               C PCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  166  ---CEPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  214
+
+
+>Q00731.3 RecName: Full=Vascular endothelial growth factor A, 
+long form; Short=L-VEGF; AltName: Full=Vascular permeability 
+factor; Short=VPF; Contains: RecName: Full=N-VEGF; Contains: 
+RecName: Full=VEGFA; Flags: Precursor [Mus musculus]
+Length=392
+
+ Score = 348 bits (892),  Expect = 2e-119, Method: Compositional matrix adjust.
+ Identities = 194/232 (84%), Positives = 201/232 (87%), Gaps = 18/232 (8%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHW+LALLLYLHHAKWSQAAP  EG  Q  HEV+KFMDVYQRSYC PIETLVD
+Sbjct  179  MNFLLSWVHWTLALLLYLHHAKWSQAAPTTEGE-QKSHEVIKFMDVYQRSYCRPIETLVD  237
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRC GCCNDE LECVPT ESNITMQIMRIKPHQ QHIGEM
+Sbjct  238  IFQEYPDEIEYIFKPSCVPLMRCAGCCNDEALECVPTSESNITMQIMRIKPHQSQHIGEM  297
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQH++CECRPKKDR + EKKSVRGKGKGQKRKRKKSR+KSWSV+              
+Sbjct  298  SFLQHSRCECRPKKDRTKPEKKSVRGKGKGQKRKRKKSRFKSWSVH--------------  343
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+               C PCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  344  ---CEPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  392
+
+
+>P15691.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Bos taurus]
+Length=190
+
+ Score = 331 bits (849),  Expect = 9e-116, Method: Compositional matrix adjust.
+ Identities = 180/232 (78%), Positives = 184/232 (79%), Gaps = 42/232 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGG Q  HEVVKFMDVYQRS+C PIETLVD
+Sbjct  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGG-QKPHEVVKFMDVYQRSFCRPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIE+IFKPSCVPLMRCGGCCNDE LECVPTEE NITMQIMRIKPHQ QHIGEM
+Sbjct  60   IFQEYPDEIEFIFKPSCVPLMRCGGCCNDESLECVPTEEFNITMQIMRIKPHQSQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQHNKCECRPKKD+ARQE                                        
+Sbjct  120  SFLQHNKCECRPKKDKARQE----------------------------------------  139
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+             +PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  140  -NPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  190
+
+
+>Q9GKR0.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Equus caballus]
+Length=190
+
+ Score = 328 bits (840),  Expect = 2e-114, Method: Compositional matrix adjust.
+ Identities = 179/232 (77%), Positives = 183/232 (79%), Gaps = 42/232 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEG  + H EVVKFMDVYQRSYC PIETLVD
+Sbjct  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGEHKTH-EVVKFMDVYQRSYCRPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT E NITMQIMRIKPHQ QHIGEM
+Sbjct  60   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTAEFNITMQIMRIKPHQSQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQH+KCECRPKKD+ARQE                                        
+Sbjct  120  SFLQHSKCECRPKKDKARQE----------------------------------------  139
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+             +PCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  140  -NPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  190
+
+
+>Q99PS1.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Mesocricetus auratus]
+Length=190
+
+ Score = 306 bits (784),  Expect = 7e-106, Method: Compositional matrix adjust.
+ Identities = 167/232 (72%), Positives = 175/232 (75%), Gaps = 42/232 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHW+LALLLYLHHAKWSQAAP  EG  Q  H VV+FMDVY+RSYCHPIETLVD
+Sbjct  1    MNFLLSWVHWTLALLLYLHHAKWSQAAPTTEGE-QKAHGVVEFMDVYRRSYCHPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIEYIFKPSCVPLMRCGGCC+DE LECVPT ESNITMQIMR+KPHQ QHIGEM
+Sbjct  60   IFQEYPDEIEYIFKPSCVPLMRCGGCCSDEALECVPTSESNITMQIMRVKPHQSQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQH++CECRPKK R + E                                        
+Sbjct  120  SFLQHSRCECRPKKVRTKPENH--------------------------------------  141
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+               C PCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR
+Sbjct  142  ---CEPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  190
+
+
+>P26617.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF 
+[Cavia porcellus]
+Length=164
+
+ Score = 287 bits (735),  Expect = 7e-99, Method: Compositional matrix adjust.
+ Identities = 149/206 (72%), Positives = 155/206 (75%), Gaps = 42/206 (20%)
+
+Query  27   APMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGC  86
+            APMAEG  Q   E VKFMDVY+RSYC PIE LVDIFQEYPDEIEYIFKPSCVPLMRCGGC
+Sbjct  1    APMAEGE-QKPREEVKFMDVYKRSYCRPIEMLVDIFQEYPDEIEYIFKPSCVPLMRCGGC  59
+
+Query  87   CNDEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVRG  146
+            CNDE LECVPTEE NITMQIMRIKPHQGQHIGEMSFLQH+KCECRPKK++ARQE      
+Sbjct  60   CNDESLECVPTEEFNITMQIMRIKPHQGQHIGEMSFLQHSKCECRPKKEKARQE------  113
+
+Query  147  KGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPGPHPCGPCSERRKHLFVQDPQTCKCSC  206
+                                               +PCGPCSERRKHLFVQDPQTCKCSC
+Sbjct  114  -----------------------------------NPCGPCSERRKHLFVQDPQTCKCSC  138
+
+Query  207  KNTDSRCKARQLELNERTCRCDKPRR  232
+            +NTDSRCKARQLELNERTCRCDKPRR
+Sbjct  139  RNTDSRCKARQLELNERTCRCDKPRR  164
+
+
+>P67964.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Gallus gallus] P67965.1 RecName: 
+Full=Vascular endothelial growth factor A; Short=VEGF-A; AltName: 
+Full=Vascular permeability factor; Short=VPF; Flags: Precursor 
+[Coturnix japonica]
+Length=216
+
+ Score = 287 bits (735),  Expect = 4e-98, Method: Compositional matrix adjust.
+ Identities = 142/232 (61%), Positives = 171/232 (74%), Gaps = 16/232 (7%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLL+W+HW LA LLYL  A+ S+AAP    G +  +EV+KF++VY+RS+C  IETLVD
+Sbjct  1    MNFLLTWIHWGLAALLYLQSAELSKAAPALGDGERKPNEVIKFLEVYERSFCRTIETLVD  60
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDE+EYIF+PSCVPLMRC GCC DEGLECVP +  N+TM+I RIKPHQ QHI  M
+Sbjct  61   IFQEYPDEVEYIFRPSCVPLMRCAGCCGDEGLECVPVDVYNVTMEIARIKPHQSQHIAHM  120
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SFLQH+KC+CRPKKD   +++K  +      +++++K                     P 
+Sbjct  121  SFLQHSKCDCRPKKDVKNKQEKKSKRGKGKGQKRKRKKGRYK----------------PP  164
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+               C PCSERRKHLFVQDPQTCKCSCK TDSRCK+RQLELNERTCRC+KPRR
+Sbjct  165  SFHCEPCSERRKHLFVQDPQTCKCSCKFTDSRCKSRQLELNERTCRCEKPRR  216
+
+
+>P67860.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Protobothrops flavoviridis]
+Length=216
+
+ Score = 279 bits (714),  Expect = 6e-95, Method: Compositional matrix adjust.
+ Identities = 152/233 (65%), Positives = 173/233 (74%), Gaps = 18/233 (8%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLL+W+HW LA LLY H+AK  QAAP    G +   EV+ FM VY+RS C PIET+VD
+Sbjct  1    MNFLLTWIHWGLAALLYFHNAKVLQAAPAQGDGDRQQSEVIPFMTVYERSVCRPIETMVD  60
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQ+YPDE+EYI KP CV LMRCGGCCNDE LECVPTE  N+TM+IM++KP+Q QHI  M
+Sbjct  61   IFQDYPDEVEYILKPPCVALMRCGGCCNDEALECVPTELYNVTMEIMKLKPYQSQHIHPM  120
+
+Query  121  SFLQHNKCECRPKKD-RARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLP  179
+            SF QH+KCECRPKK+ R  QEKKS R KGKGQKRKRK+ R                   P
+Sbjct  121  SFQQHSKCECRPKKETRIIQEKKSKREKGKGQKRKRKRGR-----------------YKP  163
+
+Query  180  GPHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+                C PCSERRKHL+ QDP TCKCSCK TDSRCK++QLELNERTCRC+KPRR
+Sbjct  164  QNFHCEPCSERRKHLYKQDPLTCKCSCKFTDSRCKSKQLELNERTCRCEKPRR  216
+
+
+>C0K3N5.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; Flags: Precursor [Vipera ammodytes ammodytes]
+Length=192
+
+ Score = 275 bits (702),  Expect = 2e-93, Method: Compositional matrix adjust.
+ Identities = 139/233 (60%), Positives = 158/233 (68%), Gaps = 42/233 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSW+HW LA LLY H+AK  QAAP    G +   EV+ F+ VY+RS C P+ET+VD
+Sbjct  1    MNFLLSWIHWGLAALLYFHNAKVLQAAPAQGDGDRQQGEVISFLTVYERSACRPVETMVD  60
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDE+EYIFKPSCV LMRCGGCCNDE LECVPTE  N+TM+IM++KP Q QHI  M
+Sbjct  61   IFQEYPDEVEYIFKPSCVALMRCGGCCNDEALECVPTEVYNVTMEIMKLKPFQSQHIHPM  120
+
+Query  121  SFLQHNKCECRPKKD-RARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLP  179
+            SF QH+KCECRPKK+ R RQE                                       
+Sbjct  121  SFQQHSKCECRPKKEVRIRQENH-------------------------------------  143
+
+Query  180  GPHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+                C PCSERRKHL+ QDP TCKCSCK TDSRCK++QLELNERTCRC+KPRR
+Sbjct  144  ----CEPCSERRKHLYKQDPLTCKCSCKFTDSRCKSKQLELNERTCRCEKPRR  192
+
+
+>C0K3N4.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; Flags: Precursor [Agkistrodon piscivorus piscivorus]
+Length=192
+
+ Score = 269 bits (688),  Expect = 3e-91, Method: Compositional matrix adjust.
+ Identities = 137/233 (59%), Positives = 156/233 (67%), Gaps = 42/233 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLL+W+HW LA LLY H+AK  QAAP    G +   EV+ FM VY+RS C PIET+VD
+Sbjct  1    MNFLLTWIHWGLAALLYFHNAKVLQAAPAHGDGDRQQSEVIPFMTVYERSVCRPIETMVD  60
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDE+EYI KP CV LMRCGGCCNDE LECVPTE  N+TM+IM++KP+Q QHI  M
+Sbjct  61   IFQEYPDEVEYILKPPCVALMRCGGCCNDEALECVPTELYNVTMEIMKLKPYQSQHIHPM  120
+
+Query  121  SFLQHNKCECRPKKD-RARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLP  179
+            SF QH+KCECRPKK+ R  QE                                       
+Sbjct  121  SFQQHSKCECRPKKETRIIQENH-------------------------------------  143
+
+Query  180  GPHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+                C PCSERRKHL+ QDP TCKCSCK TDSRCK++QLELNERTCRC+KPRR
+Sbjct  144  ----CEPCSERRKHLYKQDPLTCKCSCKFTDSRCKSKQLELNERTCRCEKPRR  192
+
+
+>P83906.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Bitis gabonica]
+Length=191
+
+ Score = 265 bits (677),  Expect = 1e-89, Method: Compositional matrix adjust.
+ Identities = 132/232 (57%), Positives = 155/232 (67%), Gaps = 41/232 (18%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLL+W+HW LA LLY H+AK  QAAP    G +   EV+ F+ VY+RS C P+ET+VD
+Sbjct  1    MNFLLTWIHWGLAALLYFHNAKVLQAAPAQGDGERQQGEVIPFLKVYERSICRPVETMVD  60
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDE+EYIFKPSCV LMRCGGCCNDE LECVPTE  N+TM++M++KP Q QHI  +
+Sbjct  61   IFQEYPDEVEYIFKPSCVALMRCGGCCNDEALECVPTEMYNVTMEVMKLKPFQSQHIHPV  120
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SF QH+KCECRPKKD        +R K                                 
+Sbjct  121  SFQQHSKCECRPKKD--------IRNKDNH------------------------------  142
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR  232
+               C PCSERRKHL+ QDP TCKCSCK  D RCK++QLELNERTCRC++PRR
+Sbjct  143  ---CEPCSERRKHLYKQDPLTCKCSCKAPDLRCKSKQLELNERTCRCERPRR  191
+
+
+>P50412.1 RecName: Full=Vascular endothelial growth factor A; 
+Short=VEGF-A; AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Ovis aries]
+Length=146
+
+ Score = 249 bits (635),  Expect = 7e-84, Method: Compositional matrix adjust.
+ Identities = 130/141 (92%), Positives = 134/141 (95%), Gaps = 1/141 (1%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGG Q  HEV+KFMDVYQRS+C PIETLVD
+Sbjct  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGG-QKPHEVMKFMDVYQRSFCRPIETLVD  59
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            IFQEYPDEIE+IFKPSCVPLMRCGGCCNDE LECVPTEE NITMQIMRIKPHQ QHIGEM
+Sbjct  60   IFQEYPDEIEFIFKPSCVPLMRCGGCCNDESLECVPTEEFNITMQIMRIKPHQSQHIGEM  119
+
+Query  121  SFLQHNKCECRPKKDRARQEK  141
+            SFLQHNKCECRPKKD+ARQEK
+Sbjct  120  SFLQHNKCECRPKKDKARQEK  140
+
+
+>O73682.1 RecName: Full=Vascular endothelial growth factor A-A; 
+Short=VEGF-A-A; Flags: Precursor [Danio rerio]
+Length=188
+
+ Score = 213 bits (543),  Expect = 3e-69, Method: Compositional matrix adjust.
+ Identities = 111/231 (48%), Positives = 141/231 (61%), Gaps = 43/231 (19%)
+
+Query  1    MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD  60
+            MN ++  +   LA LL+L   K   AA + + GG++ ++V+ FMDVY++S C   E LVD
+Sbjct  1    MNLVVYLIQLFLAALLHLSAVK---AAHIPKEGGKSKNDVIPFMDVYKKSACKTRELLVD  57
+
+Query  61   IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM  120
+            I QEYPDEIE+ + PSCV LMRC GCCNDE LECVPTE  N+TM+++R+K    QH  ++
+Sbjct  58   IIQEYPDEIEHTYIPSCVVLMRCAGCCNDEALECVPTETRNVTMEVLRVKQRVSQHNFQL  117
+
+Query  121  SFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPG  180
+            SF +H KCECRPK +        V+ K +                               
+Sbjct  118  SFTEHTKCECRPKAE--------VKAKKENH-----------------------------  140
+
+Query  181  PHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPR  231
+               C PCSERRK L+VQDP TCKCSCK T  +CK+RQLELNERTCRC+KPR
+Sbjct  141  ---CEPCSERRKRLYVQDPLTCKCSCKFTQMQCKSRQLELNERTCRCEKPR  188
+
+
+>Q9XS47.1 RecName: Full=Placenta growth factor; Short=PlGF; Flags: 
+Precursor [Bos taurus]
+Length=149
+
+ Score = 125 bits (314),  Expect = 3e-35, Method: Compositional matrix adjust.
+ Identities = 55/113 (49%), Positives = 76/113 (67%), Gaps = 0/113 (0%)
+
+Query  29   MAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCN  88
+            ++ G   +  EVV F  V+ RSYC P+E LVDI  EYP E+E++F PSCV LMRC GCC+
+Sbjct  29   LSPGNISSEVEVVPFQQVWSRSYCRPVERLVDIVSEYPSEMEHLFSPSCVSLMRCTGCCS  88
+
+Query  89   DEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKKDRARQEK  141
+            DE + CVP E +N+TMQ+M+ +        EMSF QH +CEC+P  ++ +Q +
+Sbjct  89   DESMHCVPLETANVTMQLMKYRSLDQPFFVEMSFSQHVRCECKPLWEKMKQTR  141
+
+
+>P49764.1 RecName: Full=Placenta growth factor; Short=PlGF; Flags: 
+Precursor [Mus musculus]
+Length=158
+
+ Score = 122 bits (307),  Expect = 4e-34, Method: Compositional matrix adjust.
+ Identities = 62/121 (51%), Positives = 78/121 (64%), Gaps = 2/121 (2%)
+
+Query  21   AKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPL  80
+            A  SQ A ++ G      EVV F +V+ RSYC P+E LV I  EYPDE+ +IF PSCV L
+Sbjct  18   AVHSQGA-LSAGNNSTEVEVVPFNEVWGRSYCRPMEKLVYILDEYPDEVSHIFSPSCVLL  76
+
+Query  81   MRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHI-GEMSFLQHNKCECRPKKDRARQ  139
+             RC GCC DEGL CVP + +NITMQI++I P++  H   EM+F Q   CECRP  +  + 
+Sbjct  77   SRCSGCCGDEGLHCVPIKTANITMQILKIPPNRDPHFYVEMTFSQDVLCECRPILETTKA  136
+
+Query  140  E  140
+            E
+Sbjct  137  E  137
+
+
+>Q63434.1 RecName: Full=Placenta growth factor; Short=PlGF; Flags: 
+Precursor [Rattus norvegicus]
+Length=158
+
+ Score = 122 bits (306),  Expect = 6e-34, Method: Compositional matrix adjust.
+ Identities = 63/133 (47%), Positives = 84/133 (63%), Gaps = 2/133 (2%)
+
+Query  21   AKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPL  80
+            A  SQ A ++ G      EVV F +V+ RSYC P+E LV I  E+P+E+ +IF PSCV L
+Sbjct  18   AVHSQGA-LSAGNNSTEMEVVPFNEVWGRSYCRPMEKLVYIADEHPNEVSHIFSPSCVLL  76
+
+Query  81   MRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQH-IGEMSFLQHNKCECRPKKDRARQ  139
+             RC GCC DEGL CV  + +NITMQI++I P++  H   EM+F Q   CECRP  +  + 
+Sbjct  77   SRCSGCCGDEGLHCVALKTANITMQILKIPPNRDPHSYVEMTFSQDVLCECRPILETTKA  136
+
+Query  140  EKKSVRGKGKGQK  152
+            E++  +GK K  K
+Sbjct  137  ERRKTKGKRKQSK  149
+
+
+>Q6J936.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin; Short=svVEGF; AltName: Full=VEGF-F; Flags: Precursor 
+[Bothrops erythromelas]
+Length=146
+
+ Score = 119 bits (299),  Expect = 4e-33, Method: Compositional matrix adjust.
+ Identities = 56/123 (46%), Positives = 77/123 (63%), Gaps = 1/123 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    +V+ FM+VY+ S C P ETLV I +EYP EI +IF+PSCV  +RCGGCC DE LE
+Sbjct  20   GTVQGQVMPFMEVYRHSVCQPRETLVSILEEYPGEIAHIFRPSCVTALRCGGCCTDESLE  79
+
+Query  94   CVPTEESNITMQIMRIKPHQGQHIGE-MSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C  T + ++  +IMR+ PH+G    E M F +H  CECRP+       +K  R   +G++
+Sbjct  80   CTATGKRSVGREIMRLSPHKGTSEKEVMQFTEHTDCECRPRSASGVNSRKHKRNPEEGEQ  139
+
+Query  153  RKR  155
+            R +
+Sbjct  140  RAK  142
+
+
+>Q90X23.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin; Short=svVEGF; AltName: Full=VEGF-F; Flags: Precursor 
+[Bothrops jararaca]
+Length=146
+
+ Score = 119 bits (297),  Expect = 1e-32, Method: Compositional matrix adjust.
+ Identities = 56/123 (46%), Positives = 76/123 (62%), Gaps = 1/123 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    +V+ FM+VY+ S C P ETLV I +EYP EI +IF+PSCV  +RCGGCC DE LE
+Sbjct  20   GTVQGQVMPFMEVYRHSVCQPRETLVSILEEYPGEISHIFRPSCVTALRCGGCCTDESLE  79
+
+Query  94   CVPTEESNITMQIMRIKPHQGQHIGE-MSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C  T + ++  +IMR+ PH+G    E M F +H  CECRP+       +K  R   +G+ 
+Sbjct  80   CTATGKRSVGREIMRLSPHKGTSEKEVMQFTEHTDCECRPRSASGVNSRKHKRNPEEGEP  139
+
+Query  153  RKR  155
+            R +
+Sbjct  140  RAK  142
+
+
+>P67862.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin TfsvVEGF; Short=svVEGF; AltName: Full=VEGF-F; 
+Flags: Precursor [Protobothrops flavoviridis]
+Length=146
+
+ Score = 118 bits (296),  Expect = 1e-32, Method: Compositional matrix adjust.
+ Identities = 57/123 (46%), Positives = 76/123 (62%), Gaps = 1/123 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    +V+ FM+VY RS C   ETLV I +EYPDE+ ++FKPSCVP++RCGGCC+DE L 
+Sbjct  20   GTVQGQVMPFMEVYSRSACQTRETLVPILKEYPDEVSHLFKPSCVPVLRCGGCCSDESLT  79
+
+Query  94   CVPTEESNITMQIMRIKPHQGQHIGE-MSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C  T + ++  +IMR+ PH+G    E M F +H  CECRP+        K  R   +G  
+Sbjct  80   CTATGKHSVGREIMRVDPHKGTSKMEVMQFKEHTACECRPRSPGDVNNGKDKRNPEEGGP  139
+
+Query  153  RKR  155
+            R R
+Sbjct  140  RAR  142
+
+
+>P49763.2 RecName: Full=Placenta growth factor; Short=PlGF; Flags: 
+Precursor [Homo sapiens]
+Length=221
+
+ Score = 119 bits (298),  Expect = 5e-32, Method: Compositional matrix adjust.
+ Identities = 51/103 (50%), Positives = 71/103 (69%), Gaps = 0/103 (0%)
+
+Query  29   MAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCN  88
+            ++ G G +  EVV F +V+ RSYC  +E LVD+  EYP E+E++F PSCV L+RC GCC 
+Sbjct  29   LSAGNGSSEVEVVPFQEVWGRSYCRALERLVDVVSEYPSEVEHMFSPSCVSLLRCTGCCG  88
+
+Query  89   DEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECR  131
+            DE L CVP E +N+TMQ+++I+        E++F QH +CECR
+Sbjct  89   DENLHCVPVETANVTMQLLKIRSGDRPSYVELTFSQHVRCECR  131
+
+
+>P0DW97.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin; Short=svVEGF; AltName: Full=VEGF-F; AltName: 
+Full=VpVEGF [Daboia palaestinae]
+Length=110
+
+ Score = 114 bits (286),  Expect = 1e-31, Method: Compositional matrix adjust.
+ Identities = 52/97 (54%), Positives = 65/97 (67%), Gaps = 1/97 (1%)
+
+Query  39   EVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTE  98
+            +V  F+DVYQRS C   ETLV I QEYPDEI  IF+PSCV ++RC GCC DE L+C P  
+Sbjct  1    QVRPFLDVYQRSACQARETLVSILQEYPDEISDIFRPSCVAVLRCSGCCTDESLKCTPVG  60
+
+Query  99   ESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKK  134
+            +  + MQIMR+ P  Q   +  M F +H  CECRP++
+Sbjct  61   KHTVDMQIMRVNPRTQSSKMEVMKFTEHTACECRPRR  97
+
+
+>P0DW98.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin; Short=TjsvVEGF; Short=svVEGF; AltName: Full=VEGF-F; 
+AltName: Full=Vascular permeability factor; Short=VPF; 
+Flags: Precursor [Protobothrops jerdonii]
+Length=143
+
+ Score = 115 bits (288),  Expect = 2e-31, Method: Compositional matrix adjust.
+ Identities = 62/144 (43%), Positives = 87/144 (60%), Gaps = 8/144 (6%)
+
+Query  13   ALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYI  72
+            A LL +      Q  P A   GQ    V+ FM+VY+RS C   ETLV I +EYPDE+ ++
+Sbjct  3    AYLLAVAILFCIQGWPSATVQGQ----VMPFMEVYERSACQTRETLVSILKEYPDEVAHL  58
+
+Query  73   FKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQH-IGEMSFLQHNKCECR  131
+            FKPSCVP++RC GCC+DE L+C  T + ++  ++MR+ PH+G   I  M F +H  CECR
+Sbjct  59   FKPSCVPVLRCSGCCSDESLKCTATGKHSVGREVMRVDPHKGTSKIEVMQFKEHTDCECR  118
+
+Query  132  PKKDRARQEKKSVRGKGKGQKRKR  155
+            P   R+  +  + R   +G+ R R
+Sbjct  119  P---RSPGDVNNGRNPEEGEPRAR  139
+
+
+>Q90X24.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin; Short=svVEGF; AltName: Full=VEGF-F; Flags: Precursor 
+[Bothrops insularis]
+Length=146
+
+ Score = 115 bits (288),  Expect = 2e-31, Method: Compositional matrix adjust.
+ Identities = 59/144 (41%), Positives = 83/144 (58%), Gaps = 5/144 (3%)
+
+Query  13   ALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYI  72
+            A LL +      Q  P+    GQ    V+ FM+VY+ S C   ETLV I +E+PDE+ +I
+Sbjct  3    AYLLAVAILFCIQGWPLGTVQGQ----VMPFMEVYRHSVCQTRETLVSILEEHPDEVSHI  58
+
+Query  73   FKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGE-MSFLQHNKCECR  131
+            F+PSCV  +RCGGCC DE L+C  T + ++  +IMR+ PH+G    E M F +H  CECR
+Sbjct  59   FRPSCVTALRCGGCCTDESLKCTATGKRSVGREIMRVDPHKGTSKTEVMQFTEHTDCECR  118
+
+Query  132  PKKDRARQEKKSVRGKGKGQKRKR  155
+            P+       +K  R   +G+ R +
+Sbjct  119  PRSASGVNSRKHKRNPEEGEPRAK  142
+
+
+>P82475.2 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin ICPP; Short=svVEGF; AltName: Full=Increasing 
+capillary permeability protein; AltName: Full=Increasing capillary-2; 
+Short=IC2; AltName: Full=VEGF-F [Macrovipera lebetina]
+Length=110
+
+ Score = 112 bits (281),  Expect = 8e-31, Method: Compositional matrix adjust.
+ Identities = 52/97 (54%), Positives = 64/97 (66%), Gaps = 1/97 (1%)
+
+Query  39   EVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTE  98
+            +V  F DVYQRS C   ETLV I QEYPDEI  IF+PSCV ++RC GCC DE L+C P  
+Sbjct  1    QVRPFPDVYQRSACQARETLVSILQEYPDEISDIFRPSCVAVLRCSGCCTDESLKCTPVG  60
+
+Query  99   ESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKK  134
+            +  + MQIMR+ P  Q   +  M F +H  CECRP++
+Sbjct  61   KHTVDMQIMRVNPRTQSSKMEVMKFTEHTACECRPRR  97
+
+
+>C0K3N1.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin barietin; Short=svVEGF; AltName: Full=VEGF-F; 
+Flags: Precursor [Bitis arietans]
+Length=150
+
+ Score = 113 bits (283),  Expect = 1e-30, Method: Compositional matrix adjust.
+ Identities = 54/120 (45%), Positives = 71/120 (59%), Gaps = 1/120 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    EV  FM+VYQRS C P ETLV I +EYPD+I  IF+PSCV ++RCGGCC+DE L 
+Sbjct  20   GTVQGEVRPFMEVYQRSVCQPRETLVSILEEYPDKISKIFRPSCVAVLRCGGCCSDESLT  79
+
+Query  94   CVPTEESNITMQIMRIKPHQ-GQHIGEMSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C    E  + +Q+M++ P      I  M F +H  CECRP+        K  R   +G++
+Sbjct  80   CTSVGERTVELQVMQVTPKTLSSKIKVMKFREHTACECRPRSGSRVNIGKHKRSPEEGER  139
+
+
+>Q330K6.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin; Short=svVEGF; AltName: Full=PM-VEGF; AltName: 
+Full=TM-VEGF; AltName: Full=VEGF-F; Flags: Precursor [Protobothrops 
+mucrosquamatus]
+Length=143
+
+ Score = 113 bits (283),  Expect = 1e-30, Method: Compositional matrix adjust.
+ Identities = 55/123 (45%), Positives = 77/123 (63%), Gaps = 4/123 (3%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    EV+ FM+VY RS C   E LV I +EYP+E+ ++FKPSCVP++RCGGCC+DE L 
+Sbjct  20   GTVQGEVMPFMEVYDRSACQTREMLVPILKEYPNEVSHLFKPSCVPVLRCGGCCSDESLT  79
+
+Query  94   CVPTEESNITMQIMRIKPHQGQH-IGEMSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C  T + ++  ++MR+ PH+G   I  M F +H  CECRP   R+  +    R   +G+ 
+Sbjct  80   CTATGKRSVGREVMRVDPHKGTSKIEVMQFKEHTACECRP---RSPGDVNDGRNPKEGEP  136
+
+Query  153  RKR  155
+            R R
+Sbjct  137  RAR  139
+
+
+>P83942.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin HF; Short=svVEGF; AltName: Full=Heparin-binding 
+dimeric hypotensive factor; AltName: Full=Hypotensive factor; 
+Short=HF; AltName: Full=VEGF-F [Vipera aspis aspis]
+Length=110
+
+ Score = 108 bits (270),  Expect = 4e-29, Method: Compositional matrix adjust.
+ Identities = 48/97 (49%), Positives = 65/97 (67%), Gaps = 1/97 (1%)
+
+Query  39   EVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTE  98
+            +V  F++V++RS C   ETLV I QEYPDEI  IF+PSCV ++RC GCC DE L+C P  
+Sbjct  1    QVRPFLEVHERSACQARETLVSILQEYPDEISDIFRPSCVAVLRCSGCCTDESLKCTPVG  60
+
+Query  99   ESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKK  134
+            +  + +QIMR+ P  Q   +  M F +H  CECRP++
+Sbjct  61   KHTVDLQIMRVNPRTQSSKMEVMKFTEHTACECRPRR  97
+
+
+>P67863.2 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin vammin; Short=svVEGF; AltName: Full=VEGF-F; Flags: 
+Precursor [Vipera ammodytes ammodytes]
+Length=145
+
+ Score = 108 bits (271),  Expect = 7e-29, Method: Compositional matrix adjust.
+ Identities = 54/135 (40%), Positives = 78/135 (58%), Gaps = 10/135 (7%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    +V  F++V++RS C   ETLV I QEYPDEI  IF+PSCV ++RC GCC DE L+
+Sbjct  20   GTVQGQVRPFLEVHERSACQARETLVPILQEYPDEISDIFRPSCVAVLRCSGCCTDESLK  79
+
+Query  94   CVPTEESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C P  +  + +QIMR+ P  Q   +  M F +H  CECRP++          +G+  G K
+Sbjct  80   CTPVGKHTVDLQIMRVNPRTQSSKMEVMKFTEHTACECRPRRK---------QGEPDGPK  130
+
+Query  153  RKRKKSRYKSWSVYV  167
+             K ++   ++   +V
+Sbjct  131  EKPRRGGVRARFPFV  145
+
+
+>P0DL42.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin VR-1'; Short=svVEGF; AltName: Full=VEGF-F [Daboia 
+siamensis]
+Length=109
+
+ Score = 106 bits (265),  Expect = 2e-28, Method: Compositional matrix adjust.
+ Identities = 49/96 (51%), Positives = 63/96 (66%), Gaps = 1/96 (1%)
+
+Query  39   EVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTE  98
+            EV  F+DVYQRS C   ETLV I QE+PDEI  IF+PSCV ++RC GCC DE ++C P  
+Sbjct  1    EVRPFLDVYQRSACQTRETLVSILQEHPDEISDIFRPSCVAVLRCSGCCTDESMKCTPVG  60
+
+Query  99   ESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPK  133
+            +    +QIMR+ P      +  M F++H  CECRP+
+Sbjct  61   KHTADIQIMRMNPRTHSSKMEVMKFMEHTACECRPR  96
+
+
+>C0K3N3.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin cratrin; Short=svVEGF; AltName: Full=VEGF-F; 
+Flags: Precursor [Crotalus atrox]
+Length=144
+
+ Score = 107 bits (266),  Expect = 3e-28, Method: Compositional matrix adjust.
+ Identities = 47/110 (43%), Positives = 68/110 (62%), Gaps = 1/110 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    + + FM+VY+RS C   E LV I  EYP E+ ++F+PSCV ++RCGGCC DE L 
+Sbjct  20   GTVQGQAMSFMEVYERSVCQTREMLVSILDEYPSEVAHLFRPSCVTVLRCGGCCTDESLT  79
+
+Query  94   CVPTEESNITMQIMRIKPHQGQH-IGEMSFLQHNKCECRPKKDRARQEKK  142
+            C  T + ++  +IMR+ P +G   I  M F +H +CECRP+      ++K
+Sbjct  80   CTATGKRSVGREIMRVDPRKGTSKIEVMQFTEHTECECRPRSTVNNGKRK  129
+
+
+>B0VXV3.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin 1; Short=svVEGF; AltName: Full=VEGF-F; Flags: 
+Precursor [Sistrurus catenatus edwardsi]
+Length=149
+
+ Score = 107 bits (266),  Expect = 4e-28, Method: Compositional matrix adjust.
+ Identities = 47/110 (43%), Positives = 68/110 (62%), Gaps = 1/110 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    + + FM+V++RS C   E LV I  E+PDE+ ++F+PSCV ++RCGGCC DE L 
+Sbjct  20   GTVQGQAMPFMEVFERSVCQTREMLVSILDEHPDEVAHLFRPSCVTVLRCGGCCTDESLM  79
+
+Query  94   CVPTEESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKKDRARQEKK  142
+            C  T + ++  +IMR+ P  +   I  M F +H KCECRP+  R    K+
+Sbjct  80   CTATGKRSVGREIMRVDPRKETSKIQVMQFTEHTKCECRPRSGRVNSGKR  129
+
+
+>C0K3N2.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin apiscin; Short=svVEGF; AltName: Full=VEGF-F; 
+Flags: Precursor [Agkistrodon piscivorus piscivorus]
+Length=124
+
+ Score = 106 bits (264),  Expect = 5e-28, Method: Compositional matrix adjust.
+ Identities = 48/102 (47%), Positives = 66/102 (65%), Gaps = 1/102 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    + + FM+VY RS C   ETLV I +E+P EI ++FKPSCV ++RCGGCC+DE L 
+Sbjct  20   GTVQGQAMPFMEVYTRSACQTRETLVSILEEHPHEISHLFKPSCVTVLRCGGCCSDESLT  79
+
+Query  94   CVPTEESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKK  134
+            C  T + ++  +IMR+ PH +   I  M F +H  CECRP+ 
+Sbjct  80   CTSTGKRSVGREIMRVDPHKETSKIEVMQFTEHTDCECRPQS  121
+
+
+>C0HM96.1 RecName: Full=Snake venom vascular endothelial growth 
+factor; Short=svVEGF; AltName: Full=VEGF-F [Crotalus durissus 
+terrificus]
+Length=114
+
+ Score = 105 bits (261),  Expect = 8e-28, Method: Compositional matrix adjust.
+ Identities = 46/95 (48%), Positives = 64/95 (67%), Gaps = 1/95 (1%)
+
+Query  39   EVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTE  98
+            +V+ FM+VY+RS C   E LV I  EYP E+ ++F+PSCV ++RCGGCC +E L C  T 
+Sbjct  1    QVMPFMEVYERSVCQTREMLVSILDEYPSEVAHLFRPSCVTVLRCGGCCTEESLTCTATG  60
+
+Query  99   ESNITMQIMRIKPHQGQH-IGEMSFLQHNKCECRP  132
+            + ++  +IMR+ P QG   I  M F +H +CECRP
+Sbjct  61   KRSVGREIMRVDPRQGTSKIEVMQFTEHTECECRP  95
+
+
+>P67861.2 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin VR-1; Short=svVEGF; AltName: Full=VEGF-F; Flags: 
+Precursor [Daboia russelii]
+Length=144
+
+ Score = 105 bits (262),  Expect = 1e-27, Method: Compositional matrix adjust.
+ Identities = 48/101 (48%), Positives = 64/101 (63%), Gaps = 1/101 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    +V  F+DVY+RS C   ETLV I QE+PDEI  IF+PSCV ++RC GCC DE ++
+Sbjct  20   GTVQGQVRPFLDVYERSACQTRETLVSILQEHPDEISDIFRPSCVAVLRCSGCCTDESMK  79
+
+Query  94   CVPTEESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPK  133
+            C P  +    +QIMR+ P      +  M F++H  CECRP+
+Sbjct  80   CTPVGKHTADIQIMRMNPRTHSSKMEVMKFMEHTACECRPR  120
+
+
+>B0VXV4.1 RecName: Full=Snake venom vascular endothelial growth 
+factor toxin 2; Short=svVEGF; AltName: Full=VEGF-F; Flags: 
+Precursor [Sistrurus catenatus edwardsi]
+Length=149
+
+ Score = 105 bits (262),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 46/110 (42%), Positives = 68/110 (62%), Gaps = 1/110 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    + + FM+V++RS C   E LV I  E+PDE+ ++F+PSCV ++RCGGCC DE L 
+Sbjct  20   GTVQGQAMPFMEVFERSVCQTREMLVSILDEHPDEVAHLFRPSCVTVLRCGGCCTDESLM  79
+
+Query  94   CVPTEESNITMQIMRIKPH-QGQHIGEMSFLQHNKCECRPKKDRARQEKK  142
+            C  T + ++  +IMR+ P  +   I  M F +H +CECRP+  R    K+
+Sbjct  80   CTATGKRSVGREIMRVDPRKETSKIEVMQFTEHTECECRPRSGRVNSGKR  129
+
+
+>X5ICI2.1 RecName: Full=Vascular endothelial growth factor isoform 
+GtVF; Flags: Precursor [Gloydius tsushimaensis]
+Length=146
+
+ Score = 104 bits (259),  Expect = 4e-27, Method: Compositional matrix adjust.
+ Identities = 48/123 (39%), Positives = 72/123 (59%), Gaps = 1/123 (1%)
+
+Query  34   GQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLE  93
+            G    +V+ FM+V++RS C   ETLV + +E+P EI  +FKPSC  ++RCGGCC+DE L 
+Sbjct  20   GTVQGQVMPFMEVFKRSVCQTRETLVPVLEEHPSEIADLFKPSCATVLRCGGCCSDESLA  79
+
+Query  94   CVPTEESNITMQIMRIKPHQGQH-IGEMSFLQHNKCECRPKKDRARQEKKSVRGKGKGQK  152
+            C    + ++  +I+R+ P +G   I  M F +H  CECRP+        K  R   +G+ 
+Sbjct  80   CTAVGKRSVGREILRVDPRKGTSKIEVMQFTEHTDCECRPRSRSGVDSGKRKRNPEEGEP  139
+
+Query  153  RKR  155
+            R +
+Sbjct  140  RAK  142
+
+
+>P49766.2 RecName: Full=Vascular endothelial growth factor B; 
+Short=VEGF-B; AltName: Full=VEGF-related factor; Short=VRF; 
+Flags: Precursor [Mus musculus]
+Length=207
+
+ Score = 100 bits (249),  Expect = 7e-25, Method: Compositional matrix adjust.
+ Identities = 49/109 (45%), Positives = 71/109 (65%), Gaps = 2/109 (2%)
+
+Query  27   APMAEGGGQNHHE-VVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGG  85
+            AP+++  G +H + VV ++DVY R+ C P E +V +  E    +     PSCV + RCGG
+Sbjct  21   APVSQFDGPSHQKKVVPWIDVYARATCQPREVVVPLSMELMGNVVKQLVPSCVTVQRCGG  80
+
+Query  86   CCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKK  134
+            CC D+GLECVPT +  + MQI+ I+ +    +GEMS  +H++CECRPKK
+Sbjct  81   CCPDDGLECVPTGQHQVRMQILMIQ-YPSSQLGEMSLEEHSQCECRPKK  128
+
+
+>Q9XS49.2 RecName: Full=Vascular endothelial growth factor B; 
+Short=VEGF-B; AltName: Full=VEGF-related factor; Short=VRF; 
+Flags: Precursor [Bos taurus]
+Length=207
+
+ Score = 99.8 bits (247),  Expect = 1e-24, Method: Compositional matrix adjust.
+ Identities = 55/133 (41%), Positives = 78/133 (59%), Gaps = 14/133 (11%)
+
+Query  27   APMAEGGGQNHHE-VVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGG  85
+            AP+++     H + VV ++DVY R+ C P E +V +  E    +     PSCV + RCGG
+Sbjct  21   APVSQPDAPGHQKKVVSWIDVYARATCQPREVVVPLNMELMGTVAKQLVPSCVTVQRCGG  80
+
+Query  86   CCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKK-------DRA-  137
+            CC D+GLECVPT +  + MQI+ I+ +    +GEMS  +H++CECRPKK       DRA 
+Sbjct  81   CCPDDGLECVPTGQHQVRMQILMIQ-YPSSQLGEMSLEEHSQCECRPKKRESAVKPDRAS  139
+
+Query  138  ----RQEKKSVRG  146
+                R + +SV G
+Sbjct  140  TPHHRPQPRSVPG  152
+
+
+>O35485.3 RecName: Full=Vascular endothelial growth factor B; 
+Short=VEGF-B; AltName: Full=VEGF-related factor; Short=VRF; 
+Flags: Precursor [Rattus norvegicus]
+Length=207
+
+ Score = 99.0 bits (245),  Expect = 2e-24, Method: Compositional matrix adjust.
+ Identities = 58/160 (36%), Positives = 87/160 (54%), Gaps = 11/160 (7%)
+
+Query  27   APMAEGGGQNHHE-VVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGG  85
+            AP+++  G +H + VV ++DVY R+ C P E +V +  E    +     PSCV + RCGG
+Sbjct  21   APVSQFDGPSHQKKVVSWIDVYARATCQPREVVVPLSMELMGNVVKQLVPSCVTVQRCGG  80
+
+Query  86   CCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVR  145
+            CC D+GLECVP  +  + MQI+ I+ +    +GEMS  +H++CECRPK+     ++ +V+
+Sbjct  81   CCPDDGLECVPIGQHQVRMQILMIQ-YPSSQLGEMSLEEHSQCECRPKR-----KESAVK  134
+
+Query  146  GKGKGQKRKRKKSR-YKSWSVYVGARC---CLMPWSLPGP  181
+                     R + R   SW    GA      + P   PGP
+Sbjct  135  PDRVAIPHHRPQPRSVLSWDSAPGASSPADIIHPTPAPGP  174
+
+
+>P49765.2 RecName: Full=Vascular endothelial growth factor B; 
+Short=VEGF-B; AltName: Full=VEGF-related factor; Short=VRF; 
+Flags: Precursor [Homo sapiens]
+Length=207
+
+ Score = 99.0 bits (245),  Expect = 3e-24, Method: Compositional matrix adjust.
+ Identities = 56/147 (38%), Positives = 78/147 (53%), Gaps = 10/147 (7%)
+
+Query  39   EVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTE  98
+            +VV ++DVY R+ C P E +V +  E    +     PSCV + RCGGCC D+GLECVPT 
+Sbjct  34   KVVSWIDVYTRATCQPREVVVPLTVELMGTVAKQLVPSCVTVQRCGGCCPDDGLECVPTG  93
+
+Query  99   ESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRP-KKDRARQEKKSVRGKGKGQKRKRKK  157
+            +  + MQI+ I+ +    +GEMS  +H++CECRP KKD A +  ++     + Q R    
+Sbjct  94   QHQVRMQILMIR-YPSSQLGEMSLEEHSQCECRPKKKDSAVKPDRAATPHHRPQPRS---  149
+
+Query  158  SRYKSWSVYVGARC---CLMPWSLPGP  181
+                 W    GA        P   PGP
+Sbjct  150  --VPGWDSAPGAPSPADITHPTPAPGP  174
+
+
+>P52584.1 RecName: Full=Vascular endothelial growth factor homolog; 
+Flags: Precursor [Orf virus (strain NZ2)]
+Length=133
+
+ Score = 84.0 bits (206),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 37/86 (43%), Positives = 54/86 (63%), Gaps = 0/86 (0%)
+
+Query  45   DVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITM  104
+            +V + S C P   +V + + +P+     F P CV LMRCGGCCNDE LECVPTEE N++M
+Sbjct  29   EVLKGSECKPRPIVVPVSETHPELTSQRFNPPCVTLMRCGGCCNDESLECVPTEEVNVSM  88
+
+Query  105  QIMRIKPHQGQHIGEMSFLQHNKCEC  130
+            +++         +  +SF++H KC+C
+Sbjct  89   ELLGASGSGSNGMQRLSFVEHKKCDC  114
+
+
+>P49767.1 RecName: Full=Vascular endothelial growth factor C; 
+Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: 
+Full=Vascular endothelial growth factor-related protein; 
+Short=VRP; Flags: Precursor [Homo sapiens]
+Length=419
+
+ Score = 73.9 bits (180),  Expect = 5e-14, Method: Compositional matrix adjust.
+ Identities = 39/117 (33%), Positives = 59/117 (50%), Gaps = 3/117 (3%)
+
+Query  32   GGGQNHHEVVKFMDV-YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDE  90
+                 + E++K +D  ++++ C P E  +D+ +E+       FKP CV + RCGGCCN E
+Sbjct  110  AAAHYNTEILKSIDNEWRKTQCMPREVCIDVGKEFGVATNTFFKPPCVSVYRCGGCCNSE  169
+
+Query  91   GLECVPTEESNITMQIMRIKP--HQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVR  145
+            GL+C+ T  S ++  +  I     QG     +SF  H  C C  K D  RQ    +R
+Sbjct  170  GLQCMNTSTSYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIR  226
+
+
+>O35757.2 RecName: Full=Vascular endothelial growth factor C; 
+Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: 
+Full=Vascular endothelial growth factor-related protein; 
+Short=VRP; Flags: Precursor [Rattus norvegicus]
+Length=415
+
+ Score = 72.8 bits (177),  Expect = 9e-14, Method: Compositional matrix adjust.
+ Identities = 38/112 (34%), Positives = 58/112 (52%), Gaps = 3/112 (3%)
+
+Query  37   HHEVVKFMDV-YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECV  95
+            + E++K +D  ++++ C P E  +D+ +E+       FKP CV + RCGGCCN EGL+C+
+Sbjct  111  NTEILKSIDNEWRKTQCMPREVCIDVGKEFGAATNTFFKPPCVSVYRCGGCCNSEGLQCM  170
+
+Query  96   PTEESNITMQIMRIKP--HQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVR  145
+             T    ++  +  I     QG     +SF  H  C C  K D  RQ    +R
+Sbjct  171  NTSTGYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIR  222
+
+
+>P97953.1 RecName: Full=Vascular endothelial growth factor C; 
+Short=VEGF-C; AltName: Full=Flt4 ligand; Short=Flt4-L; AltName: 
+Full=Vascular endothelial growth factor-related protein; 
+Short=VRP; Flags: Precursor [Mus musculus]
+Length=415
+
+ Score = 72.8 bits (177),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 38/112 (34%), Positives = 58/112 (52%), Gaps = 3/112 (3%)
+
+Query  37   HHEVVKFMDV-YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECV  95
+            + E++K +D  ++++ C P E  +D+ +E+       FKP CV + RCGGCCN EGL+C+
+Sbjct  111  NTEILKSIDNEWRKTQCMPREVCIDVGKEFGAATNTFFKPPCVSVYRCGGCCNSEGLQCM  170
+
+Query  96   PTEESNITMQIMRIKP--HQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVR  145
+             T    ++  +  I     QG     +SF  H  C C  K D  RQ    +R
+Sbjct  171  NTSTGYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVYRQVHSIIR  222
+
+
+>P97946.1 RecName: Full=Vascular endothelial growth factor D; 
+Short=VEGF-D; AltName: Full=c-Fos-induced growth factor; Short=FIGF; 
+Flags: Precursor [Mus musculus]
+Length=358
+
+ Score = 65.5 bits (158),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 36/101 (36%), Positives = 51/101 (50%), Gaps = 3/101 (3%)
+
+Query  39   EVVKFMDV-YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT  97
+            E +K +D  +QR+ C P ET V++  E        FKP CV + RCGGCCN+EG+ C+ T
+Sbjct  102  ETLKVIDEEWQRTQCSPRETCVEVASELGKTTNTFFKPPCVNVFRCGGCCNEEGVMCMNT  161
+
+Query  98   EESNITMQIMRIKPHQGQ--HIGEMSFLQHNKCECRPKKDR  136
+              S I+ Q+  I         +  +    H  C+C P   R
+Sbjct  162  STSYISKQLFEISVPLTSVPELVPVKIANHTGCKCLPTGPR  202
+
+
+>O43915.1 RecName: Full=Vascular endothelial growth factor D; 
+Short=VEGF-D; AltName: Full=c-Fos-induced growth factor; Short=FIGF; 
+Flags: Precursor [Homo sapiens]
+Length=354
+
+ Score = 64.7 bits (156),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 36/101 (36%), Positives = 50/101 (50%), Gaps = 3/101 (3%)
+
+Query  39   EVVKFMDV-YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT  97
+            E +K +D  +QR+ C P ET V++  E        FKP CV + RCGGCCN+E L C+ T
+Sbjct  97   ETLKVIDEEWQRTQCSPRETCVEVASELGKSTNTFFKPPCVNVFRCGGCCNEESLICMNT  156
+
+Query  98   EESNITMQIMRIKPHQGQ--HIGEMSFLQHNKCECRPKKDR  136
+              S I+ Q+  I         +  +    H  C+C P   R
+Sbjct  157  STSYISKQLFEISVPLTSVPELVPVKVANHTGCKCLPTAPR  197
+
+
+>O35251.1 RecName: Full=Vascular endothelial growth factor D; 
+Short=VEGF-D; AltName: Full=c-Fos-induced growth factor; Short=FIGF; 
+Flags: Precursor [Rattus norvegicus]
+Length=326
+
+ Score = 62.8 bits (151),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 35/101 (35%), Positives = 50/101 (50%), Gaps = 3/101 (3%)
+
+Query  39   EVVKFMDV-YQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPT  97
+            E +K +D  +QR+ C P ET V++  E        FKP CV + RCGGCCN+E + C+ T
+Sbjct  102  ETLKVIDEEWQRTQCSPRETCVEVASELGKTTNTFFKPPCVNVFRCGGCCNEESVMCMNT  161
+
+Query  98   EESNITMQIMRIKPHQGQ--HIGEMSFLQHNKCECRPKKDR  136
+              S I+ Q+  I         +  +    H  C+C P   R
+Sbjct  162  STSYISKQLFEISVPLTSVPELVPVKIANHTGCKCLPTGPR  202
+
+
+>P52585.1 RecName: Full=Vascular endothelial growth factor homolog; 
+Flags: Precursor [Orf virus NZ7]
+Length=148
+
+ Score = 52.0 bits (123),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 27/96 (28%), Positives = 42/96 (44%), Gaps = 8/96 (8%)
+
+Query  43   FMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESN-  101
+            +M    +S C P +T+V + +EYP+     + P CV + RC GCCN +G  C   E  N 
+Sbjct  37   WMRTLDKSGCKPRDTVVYLGEEYPESTNLQYNPRCVTVKRCSGCCNGDGQICTAVETRNT  96
+
+Query  102  -------ITMQIMRIKPHQGQHIGEMSFLQHNKCEC  130
+                                 ++  +S  +H KC+C
+Sbjct  97   TVTVSVTGVSSSSGTNSGVSTNLQRISVTEHTKCDC  132
+
+
+>Q95229.1 RecName: Full=Platelet-derived growth factor subunit 
+B; Short=PDGF subunit B; AltName: Full=PDGF-2; AltName: Full=Platelet-derived 
+growth factor B chain; AltName: Full=Platelet-derived 
+growth factor beta polypeptide; Flags: Precursor 
+[Ovis aries]
+Length=241
+
+ Score = 43.5 bits (101),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 20/70 (29%), Positives = 37/70 (53%), Gaps = 3/70 (4%)
+
+Query  71   YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHI---GEMSFLQHNK  127
+            ++  P CV + RC GCCN+  ++C PT+  +  +Q+ +I+  + + I     ++ + H  
+Sbjct  118  FLVWPPCVEVQRCSGCCNNRNVQCRPTQVQDRKVQVKKIEIVRKKKIFKKATVTLVDHLA  177
+
+Query  128  CECRPKKDRA  137
+            C C     RA
+Sbjct  178  CRCETVMARA  187
+
+
+>P01128.1 RecName: Full=PDGF-related-transforming protein sis; 
+AltName: Full=p28sis [Woolly monkey sarcoma virus]
+Length=226
+
+ Score = 38.5 bits (88),  Expect = 0.020, Method: Compositional matrix adjust.
+ Identities = 28/100 (28%), Positives = 49/100 (49%), Gaps = 5/100 (5%)
+
+Query  71   YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHI---GEMSFLQHNK  127
+            ++  P CV + RC GCCN+  ++C PT+     +Q+ +I+  + + I     ++   H  
+Sbjct  103  FLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRPVQVRKIEIVRKKPIFKKATVTLEDHLA  162
+
+Query  128  CECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYV  167
+            C+C      AR   +S  G  + Q+ K  +SR    +V V
+Sbjct  163  CKCEIVAA-ARAVTRSP-GTSQEQRAKTTQSRVTIRTVRV  200
+
+
+>P01127.1 RecName: Full=Platelet-derived growth factor subunit 
+B; Short=PDGF subunit B; AltName: Full=PDGF-2; AltName: Full=Platelet-derived 
+growth factor B chain; AltName: Full=Platelet-derived 
+growth factor beta polypeptide; AltName: Full=Proto-oncogene 
+c-Sis; AltName: INN=Becaplermin; Flags: Precursor 
+[Homo sapiens]
+Length=241
+
+ Score = 38.1 bits (87),  Expect = 0.032, Method: Compositional matrix adjust.
+ Identities = 27/100 (27%), Positives = 49/100 (49%), Gaps = 5/100 (5%)
+
+Query  71   YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHI---GEMSFLQHNK  127
+            ++  P CV + RC GCCN+  ++C PT+     +Q+ +I+  + + I     ++   H  
+Sbjct  118  FLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRPVQVRKIEIVRKKPIFKKATVTLEDHLA  177
+
+Query  128  CECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYV  167
+            C+C      AR   +S  G  + Q+ K  ++R    +V V
+Sbjct  178  CKCETVAA-ARPVTRSP-GGSQEQRAKTPQTRVTIRTVRV  215
+
+
+>P12919.1 RecName: Full=Platelet-derived growth factor subunit 
+B; Short=PDGF subunit B; AltName: Full=PDGF-2; AltName: Full=Platelet-derived 
+growth factor B chain; AltName: Full=Platelet-derived 
+growth factor beta polypeptide; AltName: Full=Proto-oncogene 
+c-Sis; Flags: Precursor [Felis catus]
+Length=245
+
+ Score = 38.1 bits (87),  Expect = 0.034, Method: Compositional matrix adjust.
+ Identities = 17/63 (27%), Positives = 34/63 (54%), Gaps = 3/63 (5%)
+
+Query  71   YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHI---GEMSFLQHNK  127
+            ++  P CV + RC GCCN+  ++C PT+     +Q+ +I+  + + +     ++   H  
+Sbjct  122  FLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRLVQVRKIEIVRKRPVFKKATVTLEDHLA  181
+
+Query  128  CEC  130
+            C+C
+Sbjct  182  CKC  184
+
+
+>Q6Q7I7.1 RecName: Full=Platelet-derived growth factor subunit 
+B; Short=PDGF subunit B; AltName: Full=PDGF-2; AltName: Full=Platelet-derived 
+growth factor B chain; AltName: Full=Platelet-derived 
+growth factor beta polypeptide; Flags: Precursor 
+[Canis lupus familiaris]
+Length=242
+
+ Score = 36.6 bits (83),  Expect = 0.097, Method: Compositional matrix adjust.
+ Identities = 14/40 (35%), Positives = 25/40 (63%), Gaps = 0/40 (0%)
+
+Query  71   YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            ++  P CV + RC GCCN+  ++C PT+     +Q+ +I+
+Sbjct  118  FLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRPVQVRKIE  157
+
+
+>P28576.2 RecName: Full=Platelet-derived growth factor subunit 
+A; Short=PDGF subunit A; AltName: Full=PDGF-1; AltName: Full=Platelet-derived 
+growth factor A chain; AltName: Full=Platelet-derived 
+growth factor alpha polypeptide; Flags: Precursor 
+[Rattus norvegicus]
+Length=204
+
+ Score = 35.8 bits (81),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 13/48 (27%), Positives = 27/48 (56%), Gaps = 0/48 (0%)
+
+Query  63   QEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            Q  P    ++  P CV + RC GCCN   ++C P+   + ++++ +++
+Sbjct  109  QVDPTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRVHHRSVKVAKVE  156
+
+
+>P31240.1 RecName: Full=Platelet-derived growth factor subunit 
+B; Short=PDGF subunit B; AltName: Full=PDGF-2; AltName: Full=Platelet-derived 
+growth factor B chain; AltName: Full=Platelet-derived 
+growth factor beta polypeptide; AltName: Full=Proto-oncogene 
+c-Sis; Flags: Precursor [Mus musculus]
+Length=241
+
+ Score = 35.8 bits (81),  Expect = 0.21, Method: Compositional matrix adjust.
+ Identities = 20/83 (24%), Positives = 42/83 (51%), Gaps = 8/83 (10%)
+
+Query  56   ETLVDIFQEYPDEIE-----YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            +T  ++FQ   + I+     ++  P CV + RC GCCN+  ++C  ++     +Q+ +I+
+Sbjct  98   KTRTEVFQISRNLIDRTNANFLVWPPCVEVQRCSGCCNNRNVQCRASQVQMRPVQVRKIE  157
+
+Query  111  PHQGQHI---GEMSFLQHNKCEC  130
+              + + I     ++   H  C+C
+Sbjct  158  IVRKKPIFKKATVTLEDHLACKC  180
+
+
+>P20033.3 RecName: Full=Platelet-derived growth factor subunit 
+A; Short=PDGF subunit A; AltName: Full=PDGF-1; AltName: Full=Platelet-derived 
+growth factor A chain; AltName: Full=Platelet-derived 
+growth factor alpha polypeptide; Flags: Precursor 
+[Mus musculus]
+Length=211
+
+ Score = 35.4 bits (80),  Expect = 0.23, Method: Compositional matrix adjust.
+ Identities = 13/48 (27%), Positives = 27/48 (56%), Gaps = 0/48 (0%)
+
+Query  63   QEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            Q  P    ++  P CV + RC GCCN   ++C P+   + ++++ +++
+Sbjct  109  QVDPTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRVHHRSVKVAKVE  156
+
+
+>P34007.1 RecName: Full=Platelet-derived growth factor subunit 
+A; Short=PDGF subunit A; AltName: Full=PDGF-1; AltName: Full=Platelet-derived 
+growth factor A chain; AltName: Full=Platelet-derived 
+growth factor alpha polypeptide; Flags: Precursor 
+[Oryctolagus cuniculus]
+Length=213
+
+ Score = 35.0 bits (79),  Expect = 0.29, Method: Compositional matrix adjust.
+ Identities = 13/48 (27%), Positives = 27/48 (56%), Gaps = 0/48 (0%)
+
+Query  63   QEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            Q  P    ++  P CV + RC GCCN   ++C P+   + ++++ +++
+Sbjct  111  QVDPTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRVHHRSVKVAKVE  158
+
+
+>P13698.1 RecName: Full=Platelet-derived growth factor subunit 
+A; Short=PDGF subunit A; AltName: Full=PDGF-1; AltName: Full=Platelet-derived 
+growth factor A chain; AltName: Full=Platelet-derived 
+growth factor alpha polypeptide; Flags: Precursor 
+[Xenopus laevis]
+Length=226
+
+ Score = 35.0 bits (79),  Expect = 0.32, Method: Compositional matrix adjust.
+ Identities = 18/83 (22%), Positives = 41/83 (49%), Gaps = 7/83 (8%)
+
+Query  66   PDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRI-----KPHQGQHIGEM  120
+            P    ++  P CV + RC GCCN   ++C P+   + ++++ ++     KP   + +  +
+Sbjct  117  PTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRIHHRSVKVAKVEYVRKKPKLKEVLVRL  176
+
+Query  121  SFLQHNKCECRPKKDRARQEKKS  143
+               +H +C C    +   +E+++
+Sbjct  177  E--EHLECTCTANSNSDYREEET  197
+
+
+>Q2KJ15.1 RecName: Full=Platelet-derived growth factor subunit 
+A; Short=PDGF subunit A; AltName: Full=Platelet-derived growth 
+factor A chain; AltName: Full=Platelet-derived growth factor 
+alpha polypeptide; Flags: Precursor [Bos taurus]
+Length=211
+
+ Score = 35.0 bits (79),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 13/48 (27%), Positives = 26/48 (54%), Gaps = 0/48 (0%)
+
+Query  63   QEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            Q  P    ++  P CV + RC GCCN   ++C P+   +  +++ +++
+Sbjct  109  QVDPTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRVHHRNVKVAKVE  156
+
+
+>Q9I946.1 RecName: Full=Platelet-derived growth factor C; Short=PDGF-C; 
+AltName: Full=Spinal cord-derived growth factor; Contains: 
+RecName: Full=Platelet-derived growth factor C, latent 
+form; Short=PDGFC latent form; Contains: RecName: Full=Platelet-derived 
+growth factor C, receptor-binding form; Short=PDGFC 
+receptor-binding form; Flags: Precursor [Gallus gallus]
+Length=345
+
+ Score = 35.0 bits (79),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 19/71 (27%), Positives = 37/71 (52%), Gaps = 10/71 (14%)
+
+Query  70   EYIFKPSCVPLMRCGGCC-----NDEGLECVPTEESNITMQIMRIKPHQG-----QHIGE  119
+            + IF P C+ + RCGG C     N    +C+PT+ +    +++++KP  G     + + +
+Sbjct  267  DTIFWPLCLLVKRCGGNCACCHQNCNECQCIPTKVTKKYHEVLQLKPRSGVRGLHKSLTD  326
+
+Query  120  MSFLQHNKCEC  130
+            +    H +C+C
+Sbjct  327  VPLEHHEECDC  337
+
+
+>P04085.1 RecName: Full=Platelet-derived growth factor subunit 
+A; Short=PDGF subunit A; AltName: Full=PDGF-1; AltName: Full=Platelet-derived 
+growth factor A chain; AltName: Full=Platelet-derived 
+growth factor alpha polypeptide; Flags: Precursor 
+[Homo sapiens]
+Length=211
+
+ Score = 34.7 bits (78),  Expect = 0.38, Method: Compositional matrix adjust.
+ Identities = 13/48 (27%), Positives = 27/48 (56%), Gaps = 0/48 (0%)
+
+Query  63   QEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            Q  P    ++  P CV + RC GCCN   ++C P+   + ++++ +++
+Sbjct  109  QVDPTSANFLIWPPCVEVKRCTGCCNTSSVKCQPSRVHHRSVKVAKVE  156
+
+
+>Q9NRA1.2 RecName: Full=Platelet-derived growth factor C; Short=PDGF-C; 
+AltName: Full=Fallotein; AltName: Full=Spinal cord-derived 
+growth factor; Short=SCDGF; AltName: Full=VEGF-E; Contains: 
+RecName: Full=Platelet-derived growth factor C, latent 
+form; Short=PDGFC latent form; Contains: RecName: Full=Platelet-derived 
+growth factor C, receptor-binding form; Short=PDGFC 
+receptor-binding form; Flags: Precursor [Homo sapiens]
+Length=345
+
+ Score = 35.0 bits (79),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 23/89 (26%), Positives = 44/89 (49%), Gaps = 11/89 (12%)
+
+Query  52   CHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCC-----NDEGLECVPTEESNITMQI  106
+            C P    V I +E     + IF P C+ + RCGG C     N    +CVP++ +    ++
+Sbjct  250  CTPRNFSVSIREEL-KRTDTIFWPGCLLVKRCGGNCACCLHNCNECQCVPSKVTKKYHEV  308
+
+Query  107  MRIKPHQG-----QHIGEMSFLQHNKCEC  130
+            ++++P  G     + + +++   H +C+C
+Sbjct  309  LQLRPKTGVRGLHKSLTDVALEHHEECDC  337
+
+
+>Q05028.1 RecName: Full=Platelet-derived growth factor subunit 
+B; Short=PDGF subunit B; AltName: Full=PDGF-2; AltName: Full=Platelet-derived 
+growth factor B chain; AltName: Full=Platelet-derived 
+growth factor beta polypeptide; Flags: Precursor 
+[Rattus norvegicus]
+Length=225
+
+ Score = 34.7 bits (78),  Expect = 0.42, Method: Compositional matrix adjust.
+ Identities = 19/83 (23%), Positives = 42/83 (51%), Gaps = 8/83 (10%)
+
+Query  56   ETLVDIFQEYPDEIE-----YIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIK  110
+            +T  ++FQ   + I+     ++  P CV + RC GCCN+  ++C  ++     +Q+ +I+
+Sbjct  90   KTRTEVFQISRNLIDRTNANFLVWPPCVEVQRCSGCCNNRNVQCRASQVQMRPVQVRKIE  149
+
+Query  111  PHQGQHI---GEMSFLQHNKCEC  130
+              + + +     ++   H  C+C
+Sbjct  150  IVRKKPVFKKATVTLEDHLACKC  172
+
+
+>A8WCC4.1 RecName: Full=Platelet-derived growth factor C; Short=PDGF-C; 
+Contains: RecName: Full=Platelet-derived growth factor 
+C, latent form; Short=PDGFC latent form; Contains: RecName: 
+Full=Platelet-derived growth factor C, receptor-binding 
+form; Short=PDGFC receptor-binding form; Flags: Precursor [Gekko 
+japonicus]
+Length=345
+
+ Score = 35.0 bits (79),  Expect = 0.42, Method: Compositional matrix adjust.
+ Identities = 21/71 (30%), Positives = 37/71 (52%), Gaps = 10/71 (14%)
+
+Query  70   EYIFKPSCVPLMRCGG---CCNDEGLE--CVPTEESNITMQIMRIKPHQG-----QHIGE  119
+            + IF P C+ + RCGG   CC     E  C+PT+ +    +++++KP  G     + + +
+Sbjct  267  DTIFWPLCLLVKRCGGNCACCQHSCSECQCIPTKVTKKYHEVLQLKPRSGVRGLHKSLTD  326
+
+Query  120  MSFLQHNKCEC  130
+            +    H +CEC
+Sbjct  327  VPLEHHEECEC  337
+
+
+>P08169.2 RecName: Full=Cation-independent mannose-6-phosphate 
+receptor; Short=CI Man-6-P receptor; Short=CI-MPR; Short=M6PR; 
+AltName: Full=300 kDa mannose 6-phosphate receptor; Short=MPR 
+300; AltName: Full=Insulin-like growth factor 2 receptor; 
+AltName: Full=Insulin-like growth factor II receptor; Short=IGF-II 
+receptor; AltName: CD_antigen=CD222; Flags: Precursor 
+[Bos taurus]
+Length=2499
+
+ Score = 35.0 bits (79),  Expect = 0.53, Method: Compositional matrix adjust.
+ Identities = 23/82 (28%), Positives = 38/82 (46%), Gaps = 3/82 (4%)
+
+Query  57    TLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQH  116
+             T VD F E      Y+    C PL    GC       C+ TE+S + + +++I P  G +
+Sbjct  1116  TAVDTFDEGKKRTFYL--SVCTPLPYIPGCHGTAVGCCLVTEDSKLNLGVVQISPQVGAN  1173
+
+Query  117   IGEMSFLQHNKCECRPKKDRAR  138
+              G +S +  N  +C+ ++   R
+Sbjct  1174  -GSLSLVYVNGDKCKNQRFSTR  1194
+
+
+>Q8CI19.2 RecName: Full=Platelet-derived growth factor C; Short=PDGF-C; 
+AltName: Full=Fallotein; AltName: Full=Spinal cord-derived 
+growth factor; Short=SCDGF; AltName: Full=VEGF-E; Contains: 
+RecName: Full=Platelet-derived growth factor C, latent 
+form; Short=PDGFC latent form; Contains: RecName: Full=Platelet-derived 
+growth factor C, receptor-binding form; Short=PDGFC 
+receptor-binding form; Flags: Precursor [Mus musculus]
+Length=345
+
+ Score = 34.7 bits (78),  Expect = 0.61, Method: Compositional matrix adjust.
+ Identities = 23/89 (26%), Positives = 43/89 (48%), Gaps = 11/89 (12%)
+
+Query  52   CHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCC-----NDEGLECVPTEESNITMQI  106
+            C P    V I +E     + IF P C+ + RCGG C     N    +CVP + +    ++
+Sbjct  250  CTPRNFSVSIREEL-KRTDTIFWPGCLLVKRCGGNCACCLHNCNECQCVPRKVTKKYHEV  308
+
+Query  107  MRIKPHQG-----QHIGEMSFLQHNKCEC  130
+            ++++P  G     + + +++   H +C+C
+Sbjct  309  LQLRPKTGVKGLHKSLTDVALEHHEECDC  337
+
+
+>Q9EQX6.1 RecName: Full=Platelet-derived growth factor C; Short=PDGF-C; 
+AltName: Full=Fallotein; AltName: Full=Spinal cord-derived 
+growth factor; Short=rScdfg; AltName: Full=VEGF-E; 
+Contains: RecName: Full=Platelet-derived growth factor C, latent 
+form; Short=PDGFC latent form; Contains: RecName: Full=Platelet-derived 
+growth factor C, receptor-binding form; Short=PDGFC 
+receptor-binding form; Flags: Precursor [Rattus norvegicus]
+Length=345
+
+ Score = 33.5 bits (75),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 23/89 (26%), Positives = 43/89 (48%), Gaps = 11/89 (12%)
+
+Query  52   CHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCC-----NDEGLECVPTEESNITMQI  106
+            C P    V I +E     + IF P C+ + RCGG C     N    +CVP + +    ++
+Sbjct  250  CTPRNFSVSIREEL-KRTDTIFWPGCLLVKRCGGNCACCLHNCNECQCVPRKVTKKYHEV  308
+
+Query  107  MRIKPHQG-----QHIGEMSFLQHNKCEC  130
+            ++++P  G     + + +++   H +C+C
+Sbjct  309  LQLRPKIGVKGLHKSLTDVALEHHEECDC  337
+
+
+>B0TFY7.1 RecName: Full=Alanine--tRNA ligase; AltName: Full=Alanyl-tRNA 
+synthetase; Short=AlaRS [Heliomicrobium modesticaldum 
+Ice1]
+Length=883
+
+ Score = 32.0 bits (71),  Expect = 5.5, Method: Composition-based stats.
+ Identities = 18/58 (31%), Positives = 25/58 (43%), Gaps = 23/58 (40%)
+
+Query  176  WSLPGPHPCGPCSE----RRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDK  229
+            W++    PCGPCSE    R +HL                 RCKA +  + +  C CD+
+Sbjct  162  WAMGDTGPCGPCSEILIDRGEHL-----------------RCKAEECAIGK--CDCDR  200
+
+
+>P26546.1 RecName: Full=Regulatory protein E2 [human papillomavirus 
+58]
+Length=358
+
+ Score = 31.2 bits (69),  Expect = 6.4, Method: Compositional matrix adjust.
+ Identities = 18/66 (27%), Positives = 33/66 (50%), Gaps = 8/66 (12%)
+
+Query  155  RKKSRYKSWSVYVGARCCLMPWSLPGPHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCK  214
+            +K S+ + W V+VG+R  + P S+P        S++       DP+T + +   +    K
+Sbjct  176  KKYSKTQLWEVHVGSRVIVCPTSIP--------SDQISTTETADPKTTEATNNESTQGTK  227
+
+Query  215  ARQLEL  220
+             R+L+L
+Sbjct  228  RRRLDL  233
+
+
+>H2E7T8.1 RecName: Full=Sterol methyltransferase-like 1 [Botryococcus 
+braunii]
+Length=389
+
+ Score = 31.6 bits (70),  Expect = 6.5, Method: Compositional matrix adjust.
+ Identities = 12/20 (60%), Positives = 15/20 (75%), Gaps = 0/20 (0%)
+
+Query  32  GGGQNHHEVVKFMDVYQRSY  51
+           GGG   H+V KFMD Y++SY
+Sbjct  60  GGGIKKHDVAKFMDGYEKSY  79
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.138    0.475    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15288497511
+
+
+Query= NM_001025366_ORF_3 Translated ORF
+
+Length=45
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+A2RNF7.1 RecName: Full=UPF0346 protein llmg_2280 [Lactococcus cre...  26.6    4.3  
+Q8W4D0.1 RecName: Full=Peptidyl-prolyl cis-trans isomerase CYP71;...  26.6    6.4  
+Q9CE43.1 RecName: Full=UPF0346 protein YuiB [Lactococcus lactis s...  25.8    7.1  
+Q8EQG4.1 RecName: Full=UPF0346 protein OB1736 [Oceanobacillus ihe...  25.8    7.5  
+A4VJ44.1 RecName: Full=Adenosylcobinamide-GDP ribazoletransferase...  26.2    9.2  
+
+
+>A2RNF7.1 RecName: Full=UPF0346 protein llmg_2280 [Lactococcus 
+cremoris subsp. cremoris MG1363] Q02WC9.1 RecName: Full=UPF0346 
+protein LACR_2287 [Lactococcus cremoris subsp. cremoris 
+SK11]
+Length=69
+
+ Score = 26.6 bits (57),  Expect = 4.3, Method: Compositional matrix adjust.
+ Identities = 13/44 (30%), Positives = 24/44 (55%), Gaps = 0/44 (0%)
+
+Query  1   MKEEETLRRALWVRRARLRRKHSRAGDPARSLLELDSPFYFSCC  44
+           +++++  R A  V +  L  K S+  D   + LE ++PFYF+  
+Sbjct  14  VEKDDATRLANLVFQDPLFPKQSKDFDEISTYLETEAPFYFNLT  57
+
+
+>Q8W4D0.1 RecName: Full=Peptidyl-prolyl cis-trans isomerase CYP71; 
+Short=PPIase CYP71; AltName: Full=Cyclophilin of 71 kDa; 
+AltName: Full=Cyclophilin-71; Short=AtCYP71 [Arabidopsis thaliana]
+Length=631
+
+ Score = 26.6 bits (57),  Expect = 6.4, Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 16/32 (50%), Gaps = 0/32 (0%)
+
+Query  9    RALWVRRARLRRKHSRAGDPARSLLELDSPFY  40
+            R  W R  +LRR +  +   A+ L   D+P Y
+Sbjct  284  RVFWFRTGKLRRVYDESLVVAQDLQRSDAPLY  315
+
+
+>Q9CE43.1 RecName: Full=UPF0346 protein YuiB [Lactococcus lactis 
+subsp. lactis Il1403]
+Length=69
+
+ Score = 25.8 bits (55),  Expect = 7.1, Method: Compositional matrix adjust.
+ Identities = 13/44 (30%), Positives = 23/44 (52%), Gaps = 0/44 (0%)
+
+Query  1   MKEEETLRRALWVRRARLRRKHSRAGDPARSLLELDSPFYFSCC  44
+           +++++  R A  V +  L  K S+  D   + LE  +PFYF+  
+Sbjct  14  VEKDDATRLANLVFQDPLFPKQSKDFDEISTYLETQAPFYFNLT  57
+
+
+>Q8EQG4.1 RecName: Full=UPF0346 protein OB1736 [Oceanobacillus 
+iheyensis HTE831]
+Length=75
+
+ Score = 25.8 bits (55),  Expect = 7.5, Method: Compositional matrix adjust.
+ Identities = 12/39 (31%), Positives = 19/39 (49%), Gaps = 0/39 (0%)
+
+Query  1   MKEEETLRRALWVRRARLRRKHSRAGDPARSLLELDSPF  39
+           +++++    A W  R     KHS   D   + LE +SPF
+Sbjct  16  LEKDDNSELAEWAFRNHNFPKHSNTYDEISNYLEWNSPF  54
+
+
+>A4VJ44.1 RecName: Full=Adenosylcobinamide-GDP ribazoletransferase; 
+AltName: Full=Cobalamin synthase; AltName: Full=Cobalamin-5'-phosphate 
+synthase [Stutzerimonas stutzeri A1501]
+Length=245
+
+ Score = 26.2 bits (56),  Expect = 9.2, Method: Composition-based stats.
+ Identities = 14/25 (56%), Positives = 15/25 (60%), Gaps = 0/25 (0%)
+
+Query  11   LWVRRARLRRKHSRAGDPARSLLEL  35
+            L  RRA LRR     GD A +LLEL
+Sbjct  206  LLARRAMLRRLGGTTGDTAGALLEL  230
+
+
+
+Lambda      K        H        a         alpha
+   0.340    0.144    0.486    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4532605584
+
+
+Query= NM_001025366_ORF_4 Translated ORF
+
+Length=80
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q9INI4.1 RecName: Full=Viral guanylyltransferase VP3; AltName: Fu...  31.6    0.40 
+Q28E61.1 RecName: Full=RNA cytosine-C(5)-methyltransferase NSUN2;...  29.6    2.4  
+P23008.3 RecName: Full=Genome polyprotein; Contains: RecName: Ful...  29.6    2.4  
+Q80WT4.1 RecName: Full=G-protein coupled receptor 176; AltName: F...  29.3    3.1  
+P12916.3 RecName: Full=Genome polyprotein; Contains: RecName: Ful...  28.9    3.5  
+Q0QLE4.1 RecName: Full=2,3-dimethylmalate lyase [Eubacterium bark...  28.9    3.8  
+Q3A6Q4.1 RecName: Full=DNA-directed RNA polymerase subunit beta; ...  28.9    4.0  
+
+
+>Q9INI4.1 RecName: Full=Viral guanylyltransferase VP3; AltName: 
+Full=Virion protein 3; Short=VP3; Includes: RecName: Full=mRNA 
+guanylyltransferase; Includes: RecName: Full=mRNA (guanine-N(7))-methyltransferase 
+[Banna virus strain JKT-6423]
+Length=720
+
+ Score = 31.6 bits (70),  Expect = 0.40, Method: Composition-based stats.
+ Identities = 18/54 (33%), Positives = 26/54 (48%), Gaps = 1/54 (2%)
+
+Query  22   SHSDPDREEEEMRDSGMIFFLSHLVGPGSSPLPRNVQGQGMGANMTQFWEHRQT  75
+            S  DP R + E R  G+I    + +  G SP P   +   M  + T FW+ R+T
+Sbjct  216  SVEDP-RLKNEFRSKGLIMVHDYFILIGESPGPHYKKYTKMTKDNTIFWDPRRT  268
+
+
+>Q28E61.1 RecName: Full=RNA cytosine-C(5)-methyltransferase NSUN2; 
+AltName: Full=NOL1/NOP2/Sun domain family member 2; AltName: 
+Full=mRNA cytosine C(5)-methyltransferase; AltName: Full=tRNA 
+cytosine C(5)-methyltransferase [Xenopus tropicalis]
+Length=798
+
+ Score = 29.6 bits (65),  Expect = 2.4, Method: Composition-based stats.
+ Identities = 17/53 (32%), Positives = 30/53 (57%), Gaps = 3/53 (6%)
+
+Query  16   ELGGECSHSDPDREEEEMRDSGMIFFLSHLVGPGSSPLPRNVQGQGMGANMTQ  68
+            EL G  S  D D +EE++ D G+   L H+    +S +P +V+ Q   A++++
+Sbjct  745  ELSGNESGDDEDPKEEDVIDRGV---LEHVALKNTSAIPASVEDQAEDASVSK  794
+
+
+>P23008.3 RecName: Full=Genome polyprotein; Contains: RecName: 
+Full=P1; Contains: RecName: Full=Capsid protein VP0; AltName: 
+Full=VP4-VP2; Contains: RecName: Full=Capsid protein VP4; 
+AltName: Full=P1A; AltName: Full=Virion protein 4; Contains: 
+RecName: Full=Capsid protein VP2; AltName: Full=P1B; AltName: 
+Full=Virion protein 2; Contains: RecName: Full=Capsid protein 
+VP3; AltName: Full=P1C; AltName: Full=Virion protein 3; 
+Contains: RecName: Full=Capsid protein VP1; AltName: Full=P1D; 
+AltName: Full=Virion protein 1; Contains: RecName: Full=P2; 
+Contains: RecName: Full=Protease 2A; Short=P2A; AltName: 
+Full=Picornain 2A; AltName: Full=Protein 2A; Contains: RecName: 
+Full=Protein 2B; Short=P2B; Contains: RecName: Full=Protein 
+2C; Short=P2C; Contains: RecName: Full=P3; Contains: RecName: 
+Full=Protein 3AB; Contains: RecName: Full=Protein 3A; 
+Short=P3A; Contains: RecName: Full=Viral protein genome-linked; 
+Short=VPg; AltName: Full=Protein 3B; Short=P3B; Contains: 
+RecName: Full=Protein 3CD; Contains: RecName: Full=Protease 
+3C; AltName: Full=Picornain 3C; Short=P3C; Contains: RecName: 
+Full=RNA-directed RNA polymerase; Short=RdRp; AltName: 
+Full=3D polymerase; Short=3Dpol; AltName: Full=Protein 3D; 
+Short=3D [Human rhinovirus 1A]
+Length=2157
+
+ Score = 29.6 bits (65),  Expect = 2.4, Method: Composition-based stats.
+ Identities = 18/45 (40%), Positives = 22/45 (49%), Gaps = 3/45 (7%)
+
+Query  35   DSGMIFFLSHLVGPGSSPLP--RNVQGQGMGANMTQFWEHRQTQP  77
+            D G I      V PG+ P+P  RN      G NM+ FW+H Q  P
+Sbjct  707  DIGHIVMQYMYVPPGA-PIPSKRNDFSWQSGTNMSIFWQHGQPFP  750
+
+
+>Q80WT4.1 RecName: Full=G-protein coupled receptor 176; AltName: 
+Full=G-protein coupled receptor AGR9 [Mus musculus]
+Length=515
+
+ Score = 29.3 bits (64),  Expect = 3.1, Method: Composition-based stats.
+ Identities = 15/37 (41%), Positives = 20/37 (54%), Gaps = 1/37 (3%)
+
+Query  43  SHLVGPGSSPLPRNVQGQGMGANMTQFWEHRQTQPWR  79
+           S  V P +S  PRN  G   GAN++ F E  + Q +R
+Sbjct  5   SSWVSPNTSH-PRNTSGAEAGANLSAFGELSEAQLYR  40
+
+
+>P12916.3 RecName: Full=Genome polyprotein; Contains: RecName: 
+Full=P1; Contains: RecName: Full=Capsid protein VP0; AltName: 
+Full=VP4-VP2; Contains: RecName: Full=Capsid protein VP4; 
+AltName: Full=P1A; AltName: Full=Virion protein 4; Contains: 
+RecName: Full=Capsid protein VP2; AltName: Full=P1B; AltName: 
+Full=Virion protein 2; Contains: RecName: Full=Capsid protein 
+VP3; AltName: Full=P1C; AltName: Full=Virion protein 3; 
+Contains: RecName: Full=Capsid protein VP1; AltName: Full=P1D; 
+AltName: Full=Virion protein 1; Contains: RecName: Full=P2; 
+Contains: RecName: Full=Protease 2A; Short=P2A; AltName: 
+Full=Picornain 2A; AltName: Full=Protein 2A; Contains: RecName: 
+Full=Protein 2B; Short=P2B; Contains: RecName: Full=Protein 
+2C; Short=P2C; Contains: RecName: Full=P3; Contains: RecName: 
+Full=Protein 3AB; Contains: RecName: Full=Protein 3A; 
+Short=P3A; Contains: RecName: Full=Viral protein genome-linked; 
+Short=VPg; AltName: Full=Protein 3B; Short=P3B; Contains: 
+RecName: Full=Protein 3CD; Contains: RecName: Full=Protease 
+3C; AltName: Full=Picornain 3C; Short=P3C; Contains: RecName: 
+Full=RNA-directed RNA polymerase; Short=RdRp; AltName: 
+Full=3D polymerase; Short=3Dpol; AltName: Full=Protein 3D; 
+Short=3D [rhinovirus A1B]
+Length=2157
+
+ Score = 28.9 bits (63),  Expect = 3.5, Method: Composition-based stats.
+ Identities = 17/45 (38%), Positives = 22/45 (49%), Gaps = 3/45 (7%)
+
+Query  35   DSGMIFFLSHLVGPGSSPLP--RNVQGQGMGANMTQFWEHRQTQP  77
+            D G +      V PG+ P+P  RN      G NM+ FW+H Q  P
+Sbjct  707  DIGHVVMQYMYVPPGA-PIPKTRNDFSWQSGTNMSIFWQHGQPFP  750
+
+
+>Q0QLE4.1 RecName: Full=2,3-dimethylmalate lyase [Eubacterium 
+barkeri]
+Length=289
+
+ Score = 28.9 bits (63),  Expect = 3.8, Method: Composition-based stats.
+ Identities = 15/46 (33%), Positives = 28/46 (61%), Gaps = 2/46 (4%)
+
+Query  26   PDREEEEMRDSGMI--FFLSHLVGPGSSPLPRNVQGQGMGANMTQF  69
+            P+ EEE  R +  I  + L+++V  G +PL +N + + +G N+T +
+Sbjct  186  PEGEEEMKRINETIPGYTLANMVEGGRTPLLKNAELEALGYNITIY  231
+
+
+>Q3A6Q4.1 RecName: Full=DNA-directed RNA polymerase subunit beta; 
+Short=RNAP subunit beta; AltName: Full=RNA polymerase subunit 
+beta; AltName: Full=Transcriptase subunit beta [Syntrophotalea 
+carbinolica DSM 2380]
+Length=1368
+
+ Score = 28.9 bits (63),  Expect = 4.0, Method: Composition-based stats.
+ Identities = 18/50 (36%), Positives = 27/50 (54%), Gaps = 5/50 (10%)
+
+Query  4    VSSLDVFDCCGLELGGECSHSDPDREEEEMRDSGM----IFFLSHL-VGP  48
+            V+S D+ D    E+  EC+    + + EE+R  G+    I F+ HL VGP
+Sbjct  303  VASTDIVDVSTGEVIVECNEEISESKLEELRTRGIVEFNILFIDHLHVGP  352
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.142    0.475    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4607655720
+
+
+Query= NM_001025366_ORF_5 Translated ORF
+
+Length=53
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+O35857.2 RecName: Full=Mitochondrial import inner membrane transl...  33.5    0.028
+B4SRZ0.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphat...  30.0    0.53 
+A0A0A0MS00.5 RecName: Full=Probable non-functional immunoglobulin...  28.9    1.0  
+P01714.2 RecName: Full=Immunoglobulin lambda variable 3-19; AltNa...  28.5    1.5  
+A0QNG6.1 RecName: Full=FHA domain-containing protein FhaB; AltNam...  28.5    1.9  
+P97927.2 RecName: Full=Laminin subunit alpha-4; AltName: Full=Lam...  28.5    1.9  
+O35094.1 RecName: Full=Mitochondrial import inner membrane transl...  28.1    2.4  
+O43615.2 RecName: Full=Mitochondrial import inner membrane transl...  27.7    3.6  
+Q9PAE3.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphat...  26.9    7.3  
+Q87A73.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphat...  26.9    7.4  
+A7HY08.1 RecName: Full=3-hydroxyacyl-[acyl-carrier-protein] dehyd...  26.6    8.4  
+B0RTS9.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphat...  26.6    9.2  
+B2FL74.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphat...  26.6    9.4  
+
+
+>O35857.2 RecName: Full=Mitochondrial import inner membrane translocase 
+subunit TIM44; Flags: Precursor [Mus musculus]
+Length=452
+
+ Score = 33.5 bits (75),  Expect = 0.028, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 20/33 (61%), Gaps = 1/33 (3%)
+
+Query  18  CFGDSLHMLHAHLAPRGTAWKIQEPGRPSLTLT  50
+           C G  +  L +H  P G++++I  PGR  LTLT
+Sbjct  17  CLGSGIQFLSSHNLPHGSSYQISRPGR-ELTLT  48
+
+
+>B4SRZ0.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphate 
+synthase (flavodoxin); AltName: Full=1-hydroxy-2-methyl-2-(E)-butenyl 
+4-diphosphate synthase [Stenotrophomonas maltophilia 
+R551-3]
+Length=421
+
+ Score = 30.0 bits (66),  Expect = 0.53, Method: Composition-based stats.
+ Identities = 17/48 (35%), Positives = 25/48 (52%), Gaps = 1/48 (2%)
+
+Query  3    TPALTRSLGSFRTLLCFGDSL-HMLHAHLAPRGTAWKIQEPGRPSLTL  49
+            TP +T   G  RT   F   L  ++ +H+  +   WKIQ PG  ++TL
+Sbjct  305  TPLVTACPGCGRTTSEFFQELAKVVQSHVREKMPMWKIQHPGAENMTL  352
+
+
+>A0A0A0MS00.5 RecName: Full=Probable non-functional immunoglobulin 
+lambda variable 3-32; Flags: Precursor [Homo sapiens]
+Length=114
+
+ Score = 28.9 bits (63),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 13/43 (30%), Positives = 22/43 (51%), Gaps = 7/43 (16%)
+
+Query  2   RTPALTRSLGSFRTLLCFGDSLHMLHAHLAPRGTAWKIQEPGR  44
+           + PA++ +LG    + C GDS+   + H       W  Q+PG+
+Sbjct  24  QVPAVSVALGQMARITCQGDSMEGSYEH-------WYQQKPGQ  59
+
+
+>P01714.2 RecName: Full=Immunoglobulin lambda variable 3-19; AltName: 
+Full=Ig lambda chain V-III region SH; Flags: Precursor 
+[Homo sapiens]
+Length=112
+
+ Score = 28.5 bits (62),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 14/43 (33%), Positives = 23/43 (53%), Gaps = 7/43 (16%)
+
+Query  2   RTPALTRSLGSFRTLLCFGDSLHMLHAHLAPRGTAWKIQEPGR  44
+           + PA++ +LG    + C GDSL   +A       +W  Q+PG+
+Sbjct  25  QDPAVSVALGQTVRITCQGDSLRSYYA-------SWYQQKPGQ  60
+
+
+>A0QNG6.1 RecName: Full=FHA domain-containing protein FhaB; AltName: 
+Full=FtsZ-interacting protein A [Mycolicibacterium smegmatis 
+MC2 155]
+Length=155
+
+ Score = 28.5 bits (62),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 11/29 (38%), Positives = 17/29 (59%), Gaps = 0/29 (0%)
+
+Query  15   TLLCFGDSLHMLHAHLAPRGTAWKIQEPG  43
+            TL+   D     HA L+PRG+ W +++ G
+Sbjct  92   TLVLTDDYASTRHARLSPRGSEWYVEDLG  120
+
+
+>P97927.2 RecName: Full=Laminin subunit alpha-4; AltName: Full=Laminin-14 
+subunit alpha; AltName: Full=Laminin-8 subunit alpha; 
+AltName: Full=Laminin-9 subunit alpha; Flags: Precursor 
+[Mus musculus]
+Length=1816
+
+ Score = 28.5 bits (62),  Expect = 1.9, Method: Composition-based stats.
+ Identities = 11/22 (50%), Positives = 13/22 (59%), Gaps = 0/22 (0%)
+
+Query  21    DSLHMLHAHLAPRGTAWKIQEP  42
+             D L +L   L P G AWKI+ P
+Sbjct  1563  DGLRVLEERLPPSGAAWKIKGP  1584
+
+
+>O35094.1 RecName: Full=Mitochondrial import inner membrane translocase 
+subunit TIM44; Flags: Precursor [Rattus norvegicus]
+Length=453
+
+ Score = 28.1 bits (61),  Expect = 2.4, Method: Composition-based stats.
+ Identities = 14/34 (41%), Positives = 20/34 (59%), Gaps = 2/34 (6%)
+
+Query  18  CFGDSLHMLHAHLAPR-GTAWKIQEPGRPSLTLT  50
+           C G  +  L +H  PR G++++I  PG   LTLT
+Sbjct  17  CLGSGIQFLSSHNLPRGGSSYQISRPG-GELTLT  49
+
+
+>O43615.2 RecName: Full=Mitochondrial import inner membrane translocase 
+subunit TIM44; Flags: Precursor [Homo sapiens]
+Length=452
+
+ Score = 27.7 bits (60),  Expect = 3.6, Method: Composition-based stats.
+ Identities = 8/26 (31%), Positives = 15/26 (58%), Gaps = 0/26 (0%)
+
+Query  18  CFGDSLHMLHAHLAPRGTAWKIQEPG  43
+           C G  +  L +H  P G+ ++++ PG
+Sbjct  17  CLGSGIQFLSSHNLPHGSTYQMRRPG  42
+
+
+>Q9PAE3.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphate 
+synthase (flavodoxin); AltName: Full=1-hydroxy-2-methyl-2-(E)-butenyl 
+4-diphosphate synthase [Xylella fastidiosa 9a5c]
+Length=417
+
+ Score = 26.9 bits (58),  Expect = 7.3, Method: Composition-based stats.
+ Identities = 16/48 (33%), Positives = 22/48 (46%), Gaps = 1/48 (2%)
+
+Query  3    TPALTRSLGSFRTLLCFGDSL-HMLHAHLAPRGTAWKIQEPGRPSLTL  49
+            TP +T   G  RT   F   L   +  H+  +   WKI  PG  ++TL
+Sbjct  301  TPMVTACPGCGRTTSEFFQELAKTVQQHVRDKMQVWKITHPGAETMTL  348
+
+
+>Q87A73.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphate 
+synthase (flavodoxin); AltName: Full=1-hydroxy-2-methyl-2-(E)-butenyl 
+4-diphosphate synthase [Xylella fastidiosa Temecula1]
+Length=417
+
+ Score = 26.9 bits (58),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 16/48 (33%), Positives = 22/48 (46%), Gaps = 1/48 (2%)
+
+Query  3    TPALTRSLGSFRTLLCFGDSL-HMLHAHLAPRGTAWKIQEPGRPSLTL  49
+            TP +T   G  RT   F   L   +  H+  +   WKI  PG  ++TL
+Sbjct  301  TPMVTACPGCGRTTSEFFQELAKTVQQHVRDKMQVWKITHPGAETMTL  348
+
+
+>A7HY08.1 RecName: Full=3-hydroxyacyl-[acyl-carrier-protein] dehydratase 
+FabZ; AltName: Full=(3R)-hydroxymyristoyl-[acyl-carrier-protein] 
+dehydratase; Short=(3R)-hydroxymyristoyl-ACP 
+dehydrase; AltName: Full=Beta-hydroxyacyl-ACP dehydratase [Parvibaculum 
+lavamentivorans DS-1]
+Length=158
+
+ Score = 26.6 bits (57),  Expect = 8.4, Method: Compositional matrix adjust.
+ Identities = 13/46 (28%), Positives = 20/46 (43%), Gaps = 0/46 (0%)
+
+Query  6    LTRSLGSFRTLLCFGDSLHMLHAHLAPRGTAWKIQEPGRPSLTLTC  51
+            +T     FR  +  GD LH+    +  RG+ WK    G+ +  L  
+Sbjct  99   MTVDRARFRKPVVPGDVLHVHVTKIQSRGSVWKYHGEGKVNGQLVA  144
+
+
+>B0RTS9.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphate 
+synthase (flavodoxin); AltName: Full=1-hydroxy-2-methyl-2-(E)-butenyl 
+4-diphosphate synthase [Xanthomonas campestris 
+pv. campestris str. B100] Q4UTW8.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl 
+diphosphate synthase (flavodoxin); AltName: 
+Full=1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate 
+synthase [Xanthomonas campestris pv. campestris str. 8004] Q8P9R7.1 
+RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphate 
+synthase (flavodoxin); AltName: Full=1-hydroxy-2-methyl-2-(E)-butenyl 
+4-diphosphate synthase [Xanthomonas campestris 
+pv. campestris str. ATCC 33913]
+Length=421
+
+ Score = 26.6 bits (57),  Expect = 9.2, Method: Composition-based stats.
+ Identities = 16/48 (33%), Positives = 23/48 (48%), Gaps = 1/48 (2%)
+
+Query  3    TPALTRSLGSFRTLLCFGDSLH-MLHAHLAPRGTAWKIQEPGRPSLTL  49
+            TP +T   G  RT   F   L  ++  H+  +   WKI  PG  ++TL
+Sbjct  305  TPLVTACPGCGRTTSEFFQELAGVVQNHVRAKMPEWKISNPGAENMTL  352
+
+
+>B2FL74.1 RecName: Full=4-hydroxy-3-methylbut-2-en-1-yl diphosphate 
+synthase (flavodoxin); AltName: Full=1-hydroxy-2-methyl-2-(E)-butenyl 
+4-diphosphate synthase [Stenotrophomonas maltophilia 
+K279a]
+Length=421
+
+ Score = 26.6 bits (57),  Expect = 9.4, Method: Composition-based stats.
+ Identities = 16/48 (33%), Positives = 23/48 (48%), Gaps = 1/48 (2%)
+
+Query  3    TPALTRSLGSFRTLLCFGDSL-HMLHAHLAPRGTAWKIQEPGRPSLTL  49
+            TP +T   G  RT   F   L  ++  H+  +   WKI  PG  ++TL
+Sbjct  305  TPLVTACPGCGRTTSEFFQELAKVVQNHVREKMPLWKIHHPGAENMTL  352
+
+
+
+Lambda      K        H        a         alpha
+   0.338    0.145    0.502    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4615706835
+
+
+Query= NM_001025366_ORF_6 Translated ORF
+
+Length=105
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q8A414.1 RecName: Full=Phosphoenolpyruvate carboxykinase (ATP); S...  33.1    0.24 
+Q9Y7B3.1 RecName: Full=Protein dopey [Aspergillus nidulans FGSC A4]   32.3    0.52 
+B8ZRT4.1 RecName: Full=Translation initiation factor IF-2 [Mycoba...  31.6    0.85 
+C3PH19.1 RecName: Full=Translation initiation factor IF-2 [Coryne...  31.2    1.4  
+A5CSZ4.1 RecName: Full=Translation initiation factor IF-2 [Clavib...  30.8    1.8  
+B0RDY9.1 RecName: Full=Translation initiation factor IF-2 [Clavib...  30.8    1.9  
+Q2EEW9.1 RecName: Full=DNA-directed RNA polymerase subunit beta';...  29.3    6.4  
+P39529.1 RecName: Full=Putative transcriptional regulatory protei...  28.9    7.5  
+
+
+>Q8A414.1 RecName: Full=Phosphoenolpyruvate carboxykinase (ATP); 
+Short=PCK; Short=PEP carboxykinase; Short=PEPCK [Bacteroides 
+thetaiotaomicron VPI-5482]
+Length=535
+
+ Score = 33.1 bits (74),  Expect = 0.24, Method: Composition-based stats.
+ Identities = 13/36 (36%), Positives = 19/36 (53%), Gaps = 11/36 (31%)
+
+Query  28   LPAPLPGVQPKRTYVLTPLKPLVLSPQETWLCVCEW  63
+            +P  LPGV PK           +L P++T+ C C+W
+Sbjct  477  VPTELPGVDPK-----------ILDPRDTYECACQW  501
+
+
+>Q9Y7B3.1 RecName: Full=Protein dopey [Aspergillus nidulans FGSC 
+A4]
+Length=1858
+
+ Score = 32.3 bits (72),  Expect = 0.52, Method: Composition-based stats.
+ Identities = 16/42 (38%), Positives = 22/42 (52%), Gaps = 0/42 (0%)
+
+Query  21   PGTRPHPLPAPLPGVQPKRTYVLTPLKPLVLSPQETWLCVCE  62
+            P    H LP   PG+ P  T+    ++PL LS  ET++C  E
+Sbjct  123  PEGLSHDLPLYYPGIAPTLTFASLTVRPLFLSLVETYVCDLE  164
+
+
+>B8ZRT4.1 RecName: Full=Translation initiation factor IF-2 [Mycobacterium 
+leprae Br4923] Q9Z5I9.1 RecName: Full=Translation 
+initiation factor IF-2 [Mycobacterium leprae TN]
+Length=924
+
+ Score = 31.6 bits (70),  Expect = 0.85, Method: Composition-based stats.
+ Identities = 15/27 (56%), Positives = 16/27 (59%), Gaps = 5/27 (19%)
+
+Query  18   APLPG-----TRPHPLPAPLPGVQPKR  39
+            AP PG     T PHP PAP PG +P R
+Sbjct  150  APHPGHPGMPTGPHPGPAPKPGGRPPR  176
+
+
+>C3PH19.1 RecName: Full=Translation initiation factor IF-2 [Corynebacterium 
+aurimucosum ATCC 700975]
+Length=905
+
+ Score = 31.2 bits (69),  Expect = 1.4, Method: Composition-based stats.
+ Identities = 14/27 (52%), Positives = 15/27 (56%), Gaps = 0/27 (0%)
+
+Query  14   QPMTAPLPGTRPHPLPAPLPGVQPKRT  40
+            +P  AP PG  P P  AP PG Q K T
+Sbjct  109  KPGGAPKPGATPKPGGAPKPGAQRKNT  135
+
+
+ Score = 30.8 bits (68),  Expect = 1.9, Method: Composition-based stats.
+ Identities = 13/25 (52%), Positives = 14/25 (56%), Gaps = 0/25 (0%)
+
+Query  14   QPMTAPLPGTRPHPLPAPLPGVQPK  38
+            +P  AP PG  P P  AP PG  PK
+Sbjct  97   KPGAAPKPGGAPKPGGAPKPGATPK  121
+
+
+ Score = 30.4 bits (67),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 13/25 (52%), Positives = 14/25 (56%), Gaps = 0/25 (0%)
+
+Query  14   QPMTAPLPGTRPHPLPAPLPGVQPK  38
+            +P  AP PG  P P  AP PG  PK
+Sbjct  91   KPSAAPKPGAAPKPGGAPKPGGAPK  115
+
+
+ Score = 29.3 bits (64),  Expect = 6.3, Method: Composition-based stats.
+ Identities = 14/27 (52%), Positives = 16/27 (59%), Gaps = 2/27 (7%)
+
+Query  12   KKQPMTAPLPGTRPHPLPAPLPGVQPK  38
+            +K+P TA  PG  P P  AP PG  PK
+Sbjct  79   EKKPATAAKPG--PKPSAAPKPGAAPK  103
+
+
+>A5CSZ4.1 RecName: Full=Translation initiation factor IF-2 [Clavibacter 
+michiganensis subsp. michiganensis NCPPB 382]
+Length=944
+
+ Score = 30.8 bits (68),  Expect = 1.8, Method: Composition-based stats.
+ Identities = 17/42 (40%), Positives = 25/42 (60%), Gaps = 3/42 (7%)
+
+Query  17   TAPLPGTRPHPLPAPL--PGVQ-PKRTYVLTPLKPLVLSPQE  55
+            +AP PG RP P P P   P V+ P+ + V  P KPL ++ ++
+Sbjct  77   SAPKPGGRPTPGPQPTAAPEVEAPEASDVPVPAKPLTVAERQ  118
+
+
+>B0RDY9.1 RecName: Full=Translation initiation factor IF-2 [Clavibacter 
+sepedonicus]
+Length=944
+
+ Score = 30.8 bits (68),  Expect = 1.9, Method: Composition-based stats.
+ Identities = 17/42 (40%), Positives = 25/42 (60%), Gaps = 3/42 (7%)
+
+Query  17   TAPLPGTRPHPLPAPL--PGVQ-PKRTYVLTPLKPLVLSPQE  55
+            +AP PG RP P P P   P V+ P+ + V  P KPL ++ ++
+Sbjct  77   SAPKPGGRPTPGPQPTAAPEVEAPEASDVPVPAKPLTVAERQ  118
+
+
+>Q2EEW9.1 RecName: Full=DNA-directed RNA polymerase subunit beta'; 
+Short=RNAP subunit gamma; AltName: Full=RNA polymerase 
+subunit gamma; AltName: Full=Transcriptase subunit gamma [Helicosporidium 
+sp. ex Simulium jonesi]
+Length=834
+
+ Score = 29.3 bits (64),  Expect = 6.4, Method: Composition-based stats.
+ Identities = 16/33 (48%), Positives = 19/33 (58%), Gaps = 1/33 (3%)
+
+Query  67   LHPLVLP-FPSRGTERQGRIHVPIVEAEKRESV  98
+            LHPLV P F +     Q  IHVPI E  K E++
+Sbjct  630  LHPLVCPAFNADFDGDQMAIHVPITEIAKLEAI  662
+
+
+>P39529.1 RecName: Full=Putative transcriptional regulatory protein 
+YJL206C [Saccharomyces cerevisiae S288C]
+Length=758
+
+ Score = 28.9 bits (63),  Expect = 7.5, Method: Composition-based stats.
+ Identities = 22/78 (28%), Positives = 34/78 (44%), Gaps = 8/78 (10%)
+
+Query  32   LPGVQPKRTYVLTPLKPLVLS---PQETWLCVCEWLTFLH-PLVLPFPSR--GTERQGRI  85
+            LP   P       PL P  ++    Q+TW C C    F H P ++         E+ G+ 
+Sbjct  166  LPKDTPWHMQTSVPLPPREIALKFIQKTWDCACVLFRFYHRPTIISILDSIYEAEKHGKQ  225
+
+Query  86   HVPIVEAEKRESVLYTVL  103
+            + P  E  K + ++Y+VL
+Sbjct  226  YTP--EQVKTQPLIYSVL  241
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.142    0.486    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4581262119
+
+
+Query= NM_001025366_ORF_7 Translated ORF
+
+Length=35
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+A6ZQL9.1 RecName: Full=Pheromone-regulated membrane protein 10 [S...  27.3    2.0  
+Q96QB1.4 RecName: Full=Rho GTPase-activating protein 7; AltName: ...  25.4    9.6  
+
+
+>A6ZQL9.1 RecName: Full=Pheromone-regulated membrane protein 10 
+[Saccharomyces cerevisiae YJM789]
+Length=770
+
+ Score = 27.3 bits (59),  Expect = 2.0, Method: Composition-based stats.
+ Identities = 13/31 (42%), Positives = 20/31 (65%), Gaps = 1/31 (3%)
+
+Query  4    IFCSLLLSYLYRFLYIKFMFPISLSLIGDSH  34
+            I C  L+S  +RFL++   F IS+SL+  +H
+Sbjct  599  ISCPQLISPWFRFLFVP-AFTISISLLNQAH  628
+
+
+>Q96QB1.4 RecName: Full=Rho GTPase-activating protein 7; AltName: 
+Full=Deleted in liver cancer 1 protein; Short=DLC-1; AltName: 
+Full=HP protein; AltName: Full=Rho-type GTPase-activating 
+protein 7; AltName: Full=START domain-containing protein 
+12; Short=StARD12; AltName: Full=StAR-related lipid transfer 
+protein 12 [Homo sapiens]
+Length=1528
+
+ Score = 25.4 bits (54),  Expect = 9.6, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 13/21 (62%), Gaps = 0/21 (0%)
+
+Query  14   YRFLYIKFMFPISLSLIGDSH  34
+            Y  LY  F+FPI +SL+   H
+Sbjct  468  YAQLYEDFLFPIDISLVKREH  488
+
+
+
+Lambda      K        H        a         alpha
+   0.359    0.164    0.569    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4658106804
+
+
+Query= NM_001025366_ORF_8 Translated ORF
+
+Length=70
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q6B3P0.1 RecName: Full=Cadherin-related family member 1; AltName:...  30.0    1.2  
+Q5FL68.1 RecName: Full=1,4-alpha-glucan branching enzyme GlgB; Al...  29.3    2.1  
+Q5PR34.1 RecName: Full=Cationic amino acid transporter 2; Short=C...  28.1    5.2  
+Q9ES07.1 RecName: Full=Solute carrier family 15 member 2; AltName...  27.7    7.1  
+Q8RUS5.1 RecName: Full=Autophagy-related protein 9; Short=AtAPG9 ...  27.3    9.7  
+
+
+>Q6B3P0.1 RecName: Full=Cadherin-related family member 1; AltName: 
+Full=Photoreceptor cadherin; Short=prCAD; AltName: Full=Protocadherin-21; 
+Flags: Precursor [Danio rerio]
+Length=857
+
+ Score = 30.0 bits (66),  Expect = 1.2, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 19/28 (68%), Gaps = 0/28 (0%)
+
+Query  39   LILIFVIIYLLVLLFIRNNCGEKILTSR  66
+            LIL+FV + +  ++F+R N   +IL SR
+Sbjct  715  LILVFVTVIISTVIFVRRNKANRILPSR  742
+
+
+>Q5FL68.1 RecName: Full=1,4-alpha-glucan branching enzyme GlgB; 
+AltName: Full=1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase; 
+AltName: Full=Alpha-(1->4)-glucan branching 
+enzyme; AltName: Full=Glycogen branching enzyme; Short=BE 
+[Lactobacillus acidophilus NCFM]
+Length=638
+
+ Score = 29.3 bits (64),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 20/33 (61%), Gaps = 0/33 (0%)
+
+Query  5    ICDSDKIDIAILFFICKNKTRKNREFYILNLSP  37
+            I D+D  D ++L FI + KTR +    ILN +P
+Sbjct  524  IIDADNKDESVLSFIRQGKTRHDFLIVILNFTP  556
+
+
+>Q5PR34.1 RecName: Full=Cationic amino acid transporter 2; Short=CAT-2; 
+Short=CAT2; AltName: Full=Low affinity cationic amino 
+acid transporter 2; AltName: Full=Solute carrier family 
+7 member 2 [Danio rerio]
+Length=640
+
+ Score = 28.1 bits (61),  Expect = 5.2, Method: Composition-based stats.
+ Identities = 16/44 (36%), Positives = 26/44 (59%), Gaps = 2/44 (5%)
+
+Query  11   IDIAILFFICKNKTRKNREFYILNLSPFL--ILIFVIIYLLVLL  52
+            I I  +F IC+    + +  +++ L PFL  + IFV +YL+V L
+Sbjct  532  IFIICVFLICRQPQTRKKVSFMVPLLPFLPILSIFVNVYLMVQL  575
+
+
+>Q9ES07.1 RecName: Full=Solute carrier family 15 member 2; AltName: 
+Full=Kidney H(+)/peptide cotransporter; AltName: Full=Oligopeptide 
+transporter, kidney isoform; AltName: Full=Peptide 
+transporter 2 [Mus musculus]
+Length=729
+
+ Score = 27.7 bits (60),  Expect = 7.1, Method: Composition-based stats.
+ Identities = 14/44 (32%), Positives = 26/44 (59%), Gaps = 6/44 (14%)
+
+Query  22   NKTRKNREFYILN------LSPFLILIFVIIYLLVLLFIRNNCG  59
+            NK   +  F++L       L+PFL+L+F+ ++ LV+  + + CG
+Sbjct  328  NKMDGDLGFFVLQPDQMQVLNPFLVLVFIPLFDLVIYRLISKCG  371
+
+
+>Q8RUS5.1 RecName: Full=Autophagy-related protein 9; Short=AtAPG9 
+[Arabidopsis thaliana]
+Length=866
+
+ Score = 27.3 bits (59),  Expect = 9.7, Method: Composition-based stats.
+ Identities = 17/43 (40%), Positives = 24/43 (56%), Gaps = 9/43 (21%)
+
+Query  18   FICKNKTRKNREFYI----LNLSPFLILIFVIIYLLVLLFIRN  56
+            F+    T K R F +    L LSPFL+     I++LV LF+R+
+Sbjct  309  FVSNPTTLKKRLFVVGLAMLLLSPFLV-----IFMLVYLFLRH  346
+
+
+
+Lambda      K        H        a         alpha
+   0.349    0.161    0.510    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4570410684
+
+
+  Database: swissprot
+    Posted date:  May 9, 2024  12:57 AM
+  Number of letters in database: 183,502,227
+  Number of sequences in database:  482,697
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

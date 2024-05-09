@@ -24,9 +24,10 @@ while (my $seq = $seq_in->next_seq) {
     my @ORFs = $mRNA_seq =~ /ATG(?:(?!TAA|TAG|TGA)...)*(?:TAA|TAG|TGA)/ig;
 
     # Translate each ORF and write to output
+    my $orf_id = 0;
     foreach my $orf (@ORFs) {
         my $aa_seq = translate($orf);
-        $seq_out->write_seq(Bio::Seq->new(-seq => $aa_seq, -id => $seq->display_id . "_ORF", -desc => "Translated ORF"));
+        $seq_out->write_seq(Bio::Seq->new(-seq => $aa_seq, -id => $seq->display_id . "_ORF_" . (++$orf_id), -desc => "Translated ORF"));
     }
 }
 
