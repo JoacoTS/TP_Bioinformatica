@@ -1,0 +1,72 @@
+CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence type explicitly set to Protein
+Sequence format is Pearson
+Sequence 1: NM_001025366_ORF_1          3 aa
+Sequence 2: NM_001025366_ORF_2        232 aa
+Sequence 3: NM_001025366_ORF_3         44 aa
+Sequence 4: NM_001025366_ORF_4         79 aa
+Sequence 5: NM_001025366_ORF_5         52 aa
+Sequence 6: NM_001025366_ORF_6        104 aa
+Sequence 7: NM_001025366_ORF_7         34 aa
+Sequence 8: NM_001025366_ORF_8         69 aa
+Sequence 9: sp|Q9MYV3.1|VEGFA_CANLF   214 aa
+Start of Pairwise alignments
+Aligning...
+
+
+
+Sequences (1:2) Aligned. Score: 66.6667
+Sequences (1:3) Aligned. Score: 33.3333
+Sequences (1:4) Aligned. Score: 33.3333
+Sequences (1:5) Aligned. Score: 33.3333
+Sequences (1:6) Aligned. Score: 33.3333
+Sequences (1:7) Aligned. Score: 33.3333
+Sequences (1:8) Aligned. Score: 33.3333
+Sequences (1:9) Aligned. Score: 66.6667
+Sequences (2:3) Aligned. Score: 20.4545
+Sequences (2:4) Aligned. Score: 13.9241
+Sequences (2:5) Aligned. Score: 13.4615
+Sequences (2:6) Aligned. Score: 11.5385
+Sequences (2:7) Aligned. Score: 17.6471
+Sequences (2:8) Aligned. Score: 14.4928
+Sequences (2:9) Aligned. Score: 92.9907
+Sequences (3:4) Aligned. Score: 13.6364
+Sequences (3:5) Aligned. Score: 15.9091
+Sequences (3:6) Aligned. Score: 13.6364
+Sequences (3:7) Aligned. Score: 14.7059
+Sequences (3:8) Aligned. Score: 11.3636
+Sequences (3:9) Aligned. Score: 18.1818
+Sequences (4:5) Aligned. Score: 13.4615
+Sequences (4:6) Aligned. Score: 13.9241
+Sequences (4:7) Aligned. Score: 17.6471
+Sequences (4:8) Aligned. Score: 10.1449
+Sequences (4:9) Aligned. Score: 12.6582
+Sequences (5:6) Aligned. Score: 19.2308
+Sequences (5:7) Aligned. Score: 17.6471
+Sequences (5:8) Aligned. Score: 13.4615
+Sequences (5:9) Aligned. Score: 15.3846
+Sequences (6:7) Aligned. Score: 14.7059
+Sequences (6:8) Aligned. Score: 14.4928
+Sequences (6:9) Aligned. Score: 13.4615
+Sequences (7:8) Aligned. Score: 17.6471
+Sequences (7:9) Aligned. Score: 14.7059
+Sequences (8:9) Aligned. Score: 15.942
+Guide tree file created:   [clustalw.dnd]
+
+There are 8 groups
+Start of Multiple Alignment
+
+Aligning...
+Group 1: Sequences:   2      Score:429
+Group 2: Sequences:   2      Score:3409
+Group 3: Sequences:   3      Score:40
+Group 4: Sequences:   4      Score:181
+Group 5: Sequences:   5      Score:357
+Group 6: Sequences:   7      Score:306
+Group 7: Sequences:   2      Score:266
+Group 8: Sequences:   9      Score:236
+Alignment Score -299
+
+CLUSTAL-Alignment file created  [clustalw.aln]
