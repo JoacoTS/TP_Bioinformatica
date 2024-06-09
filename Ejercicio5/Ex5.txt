@@ -1,0 +1,11 @@
+https://emboss.sourceforge.net/apps/groups.html
+
+#einverted finds inverted repeats (stem loops) in nucleotide sequences. It identifies regions of local alignment of the input sequence and its reverse complement that exceed a threshold score. The alignments may include a proportion of mismatches and gaps, which correspond to bulges in the stem loop. One or more sequences are read and a file with the sequence(s) (without gap characters) of the inverted repeat regions is written. It can find multiple inverted repeats in a sequence. Only non-overlapping matches are reported.
+%einverted -sequence NM_001025366.3.gb
+
+#Protein statistics
+%pepstat -sequence NM_001025366.3_ORFs.fasta
+
+#Comando para realizar un analisis utilizando EMBOSS y PROSITE
+%patmatmotifs -sequence NM_001025366.3_ORFs.fasta
+

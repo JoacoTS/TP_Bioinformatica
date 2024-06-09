@@ -1,0 +1,33 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sat  8 Jun 2024 18:55:17
+# Commandline: patmatmotifs
+#    -sequence NM_001025366.3_ORFs.fasta
+# Report_format: dbmotif
+# Report_file: nm_001025366_orf_2.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_001025366_ORF_2     from: 1   to: 232
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 13
+Start = position 75 of sequence
+End = position 87 of sequence
+
+Motif = PDGF_1
+
+EYIFKPSCVPLMRCGGCCNDEGL
+     |           |
+    75           87
+
+
+#---------------------------------------
+#---------------------------------------
